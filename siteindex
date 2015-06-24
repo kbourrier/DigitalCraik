@@ -1,0 +1,2283 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"
+	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Digital Dinah Craik Site Index</title>
+         </titleStmt>
+         <publicationStmt>
+            <p>University of Calgary, Calgary, AB. September 2014.</p>
+         </publicationStmt>
+         <sourceDesc>
+            <p>This personography has been populated from the letters of Dinah Craik. Information
+               about each person comes from Craik's correspondence and the Oxford Dictionary of
+               National Biography.</p>
+         </sourceDesc>
+      </fileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <div type="DigitalCraikTeam">
+            <listPerson>
+               <person xml:id="BourrierKaren">
+                  <persName>
+                     <surname>Bourrier</surname>
+                     <forename>Karen</forename>
+                     <roleName>Project Director</roleName>
+                  </persName>
+                  <occupation>
+                     <affiliation>University of Calgary</affiliation>
+                  </occupation>
+                  <note type="bio">Karen Bourrier is an assistant professor at the University of
+                     Calgary. Her interests include Victorian studies, disability studies, and the
+                     digital humanities.</note>
+               </person>
+               <person xml:id="ParkerJanice">
+                  <persName>
+                     <surname>Parker</surname>
+                     <forename>Janice</forename>
+                     <roleName>Editor</roleName>
+                  </persName>
+                  <occupation>
+                     <affiliation>University of Calgary</affiliation>
+                  </occupation>
+                  <note type="bio">Janice Parker is an MA student at the University of
+                     Calgary.</note>
+               </person>
+               <person xml:id="FukushimaKailey">
+                  <persName>
+                     <surname>Fukushima</surname>
+                     <forename>Kailey</forename>
+                     <roleName>Editor</roleName>
+                  </persName>
+                  <occupation>
+                     <affiliation>University of Calgary</affiliation>
+                  </occupation>
+                  <note type="bio">Kailey Fukushima is an undergraduate student at the University
+                     of Calgary.</note>
+               </person>
+               <person xml:id="EllsworthAaron">
+                  <persName>
+                     <surname>Ellsworth</surname>
+                     <forename>Aaron</forename>
+                     <roleName>Editor</roleName>
+                  </persName>
+                  <occupation>
+                     <affiliation>University of Calgary</affiliation>
+                  </occupation>
+                  <note type="bio">Aaron Ellsworth is an MA student at the University of Calgary.
+                     His research interests include comics, semiology, and narratology.</note>
+               </person>
+               <person xml:id="CarterJaclyn">
+                  <persName>
+                     <surname>Carter</surname>
+                     <forename>Jaclyn</forename>
+                     <roleName>Editor</roleName>
+                  </persName>
+                  <occupation>
+                     <affiliation> University of Calgary</affiliation>
+                  </occupation>
+                  <note type="bio">Jaclyn Carter is a PhD candidate at the University of Calgary.
+                  </note>
+               </person>
+            </listPerson>
+         </div>
+         <div type="PastEditors">
+            <listPerson>
+               <person xml:id="CunninghamSidney">
+                  <persName>
+                     <surname>Cunningham</surname>
+                     <forename>Sidney</forename>
+                     <roleName>Editor</roleName>
+                  </persName>
+                  <occupation>
+                     <affiliation>University of Calgary</affiliation>
+                  </occupation>
+                  <note type="bio">Sidney Cunningham is an MA student at the University of Calgary.
+                     His specialization is in contemporary transgender literature, as well as early
+                     modern literature.</note>
+               </person>
+               <person xml:id="AlemanKeilaKarinne">
+                  <persName>
+                     <surname>Aleman</surname>
+                     <forename>Keila Karinne</forename>
+                     <roleName>Editor</roleName>
+                  </persName>
+                  <occupation>
+                     <affiliation> University of Calgary </affiliation>
+                  </occupation>
+                  <note type="bio">Keila Karinne Aleman is a PhD candidate and teaching assistant at
+                     the University of Calgary. Her research is on gender in popular culture,
+                     comics, and manga.</note>
+               </person>
+               <person xml:id="RuddyPippa">
+                  <persName>
+                     <surname>Ruddy</surname>
+                     <forename>Pippa</forename>
+                  </persName>
+                  <occupation>
+                     <affiliation>University of Calgary</affiliation>
+                  </occupation>
+                  <note type="bio">Pippa Ruddy is a Master's student at the University of Calgary.
+                     Her interests include affect theory, performance/performativity studies, and
+                     intersectional feminism.</note>
+               </person>
+               <person xml:id="RahmanZainub">
+                  <persName>
+                     <surname>Rahman</surname>
+                     <forename>Zainub</forename>
+                     <roleName>Editor</roleName>
+                  </persName>
+                  <occupation>
+                     <affiliation>University of Calgary</affiliation>
+                  </occupation>
+                  <note type="bio">Rahman Zainub is an MA student at the University of
+                     Calgary.</note>
+               </person>
+               <person xml:id="FoxKerryLeigh">
+                  <persName>
+                     <surname>Fox</surname>
+                     <forename>Kerry-Leigh</forename>
+                     <roleName>Editor</roleName>
+                  </persName>
+                  <occupation>
+                     <affiliation> University of Calgary</affiliation>
+                  </occupation>
+                  <note type="bio">Kerry-Leigh Fox is an MA student at the University of Calgary.
+                     Her interests include Victorian literature, Vernon Lee, queer studies, gender
+                     studies, and creative writing.</note>
+               </person>
+            </listPerson>
+         </div>
+         <div type="Pets">
+            <listPerson>
+               <person xml:id="Blackie">
+                  <persName>Blackie</persName>
+                  <note>Blackie was the Craiks' cat at the Corner House</note>
+               </person>
+               <person xml:id="Pixie">
+                  <persName>Pixie</persName>
+                  <note>Pixie was the Craiks' horse at the Corner House</note>
+               </person>
+               <person xml:id="Songbird">
+                  <persName>Songbird</persName>
+                  <note>Songbird was a horse of Dinah Craik's.</note>
+               </person>
+            </listPerson>
+         </div>
+         <div type="HistoricalPeople">
+            <head>Historical People</head>
+            <listPerson>
+               <person xml:id="DMC" sex="2">
+                  <persName>
+                     <surname type="married">Craik</surname>
+                     <surname type="maiden">Mulock</surname>
+                     <forename>Dinah</forename>
+                     <forename>Maria</forename>
+                  </persName>
+                  <birth when="1826"/>
+                  <death when="1887"/>
+                  <occupation>Writer</occupation>
+                  <nationality>English</nationality>
+                  <event type="marriage" when="1865">
+                     <label>Marriage</label>
+                     <desc><persName ref="#DMC">Dinah Maria Mulock</persName> married <persName
+                           ref="#GeorgeCraik">George Lillie Craik</persName>.</desc>
+                  </event>
+                  <note/>
+               </person>
+               <person xml:id="ScottWalter" sex="1">
+                  <persName><surname>Scott</surname><forename>Walter</forename></persName>
+               </person>
+               <person xml:id="AldenHenry" sex="1">
+                  <note>An editor at Harper's magazine.</note>
+               </person>
+               <person xml:id="PhayreJohn" sex="1">
+                  <note>A clerk at Harper's, see
+                     https://archive.org/stream/houseofharpercen00harp/houseofharpercen00harp_djvu.txt</note>
+               </person>
+               <person xml:id="LowellJamesRussell" sex="1"/>
+               <person xml:id="LongfellowHenryWadsworth" sex="1"/>
+               <person xml:id="SewellElizabeth" sex="2"/>
+               <person xml:id="ParrHarriet" sex="2">
+                  <persName><addName>Holme Lee</addName></persName>
+               </person>
+               <person xml:id="CairdMrsEdward" sex="2">
+                  <note>The wife of the Master of Balliol, Dr. Caird. See
+                     http://archive.spectator.co.uk/article/3rd-june-1916/15/the-late-mrs-edward-caird
+                  </note>
+               </person>
+               <person xml:id="FitzgeraldMrs" sex="2"/>
+               <person xml:id="OsgoodJames">
+                  <persName>James Ripley Osgood</persName>
+                  <note>Osgood was the editor of the Atlantic and possibly Our Young Folks</note>
+               </person>
+               <person xml:id="LowSampson" sex="1">
+                  <persName>
+                     <surname>Low</surname>
+                     <forename>Sampson</forename>
+                  </persName>
+                  <birth when="1797"/>
+                  <death when="1886"/>
+                  <occupation>Publisher</occupation>
+                  <nationality>English</nationality>
+                  <affiliation><orgName ref="#Harpers">Harper's</orgName></affiliation>
+                  <note type="bio" resp="#BourrierKaren">Low was the London literary agent and
+                     correspondent for the American publisher <orgName ref="#Harpers"
+                        >Harper's</orgName></note>
+               </person>
+               <person xml:id="MulockTom" sex="1">
+                  <persName>
+                     <forename>Thomas</forename>
+                     <surname>Mulock</surname>
+                     <genName>Jr.</genName>
+                  </persName>
+                  <note type="bio" resp="#BourrierKaren">Dinah Craik's younger brother
+                     brother.</note>
+               </person>
+               <person xml:id="MulockThomas" sex="1">
+                  <persName>
+                     <forename>Thomas</forename>
+                     <surname>Mulock</surname>
+                  </persName>
+                  <birth/>
+                  <death/>
+                  <nationality>Anglo-Irish</nationality>
+                  <occupation>Writer</occupation>
+                  <note>Dinah Craik's father.</note>
+               </person>
+               <person xml:id="MulockDinah" sex="2">
+                  <persName>
+                     <forename>Dinah</forename>
+                     <surname type="married">Mulock</surname>
+                     <surname type="maiden"/>
+                  </persName>
+                  <birth/>
+                  <death/>
+                  <nationality>English</nationality>
+                  <note>Dinah Craik's mother</note>
+               </person>
+               <person xml:id="MulockBen" sex="1">
+                  <persName>
+                     <forename>Benjamin</forename>
+                     <forename>Robert</forename>
+                     <surname>Mulock</surname>
+                  </persName>
+                  <birth/>
+                  <death/>
+                  <nationality>English</nationality>
+                  <occupation>Engineer</occupation>
+                  <occupation>Artist</occupation>
+                  <note>Dinah Craik's brother</note>
+               </person>
+               <person xml:id="MulockJane" sex="2">
+                  <persName><forename>Jane</forename><surname>Mulock</surname></persName>
+                  <birth/>
+                  <death/>
+                  <nationality>Anglo-Irish</nationality>
+                  <note>One of Dinah's paternal aunts living at Bath.</note>
+               </person>
+               <person xml:id="MulockEliza" sex="2">
+                  <persName><forename>Eliza</forename><surname>Mulock</surname></persName>
+                  <birth/>
+                  <death/>
+                  <nationality>Anglo-Irish</nationality>
+                  <note>One of Dinah's paternal aunts living at Bath.</note>
+               </person>
+               <person xml:id="MulockAlicia" sex="2">
+                  <persName><forename>Alicia</forename><surname>Mulock</surname></persName>
+                  <birth/>
+                  <death/>
+                  <nationality>Anglo-Irish</nationality>
+                  <note type="bio" resp="BourrierKaren">One of Dinah's paternal aunts living at
+                     Bath.</note>
+               </person>
+               <person xml:id="ReadeMary" sex="2">
+                  <persName/>
+                  <birth> </birth>
+                  <death/>
+                  <occupation/>
+                  <nationality>English</nationality>
+                  <note>Craik's aunt on the maternal side.</note>
+               </person>
+               <person xml:id="HollandMrs" sex="2">
+                  <persName>Mrs Holland</persName>
+                  <birth> </birth>
+                  <death/>
+                  <occupation/>
+               </person>
+               <person xml:id="HallSamuelCarter" sex="1">
+                  <persName><surname>Hall</surname>
+                     <forename>Samuel</forename>
+                     <forename>Carter</forename>
+                  </persName>
+                  <birth when="1800"/>
+                  <death when="1889"/>
+                  <occupation>Editor</occupation>
+                  <occupation>Writer</occupation>
+                  <nationality>English</nationality>
+                  <affiliation>Editor of <title>New Monthly Magazine</title> and <title>Art
+                        Journal</title></affiliation>
+                  <event type="marriage" when="1824">
+                     <label>Marriage</label>
+                     <desc><persName ref="#AnnaMariaHall">Anna Maria Fielding</persName> married
+                           <persName ref="#SamuelCarterHall">Samuel Carter Hall</persName>.</desc>
+                  </event>
+               </person>
+               <person xml:id="HallAnnaMaria" sex="2">
+                  <persName>
+                     <surname type="married">Hall</surname>
+                     <surname type="maiden">Fielding</surname>
+                     <forename>Anna</forename>
+                     <forename>Maria</forename>
+                  </persName>
+                  <birth when="1800"/>
+                  <death when="1881"/>
+                  <occupation>Writer</occupation>
+                  <nationality>Irish</nationality>
+                  <affiliation from="1852" to="1853" role="editor"><title>Sharpe's London
+                        Magazine</title></affiliation>
+                  <affiliation from="1861" to="1868" role="editor"><title>St James's
+                        Magazine</title></affiliation>
+                  <residence>The Rosery, Old Brompton</residence>
+                  <event type="marriage" when="1824">
+                     <label>Marriage</label>
+                     <desc><persName ref="#AnnaMariaHall">Anna Maria Fielding</persName> married
+                           <persName ref="#SamuelCarterHall">Samuel Carter Hall</persName>.</desc>
+                  </event>
+               </person>
+               <person xml:id="MiersAnnie" sex="2"/>
+               <person xml:id="MarstonWestland" sex="1">
+                  <persName>
+                     <surname>Marston</surname>
+                     <forename>John</forename>
+                     <forename>Westland</forename>
+                  </persName>
+                  <birth when="1819"/>
+                  <death when="1890"/>
+                  <occupation>Writer</occupation>
+                  <nationality>English</nationality>
+                  <note type="bio" resp="#BourrierKaren">Westland Marston was a playwright. Dinah
+                     was very close to their entire family throughout the 1850s and beyond, often
+                     spending Christmas with them. Ben may have been engaged to one of the
+                     girls.</note>
+               </person>
+               <person xml:id="MarstonEleanor" sex="2">
+                  <persName>
+                     <surname type="married">Marston</surname>
+                     <surname type="maiden">Potts</surname>
+                     <forename>Eleanor</forename>
+                     <forename>Jane</forename>
+                  </persName>
+                  <!--<birth when="1807/8">-->
+                  <death when="1870"/>
+                  <occupation/>
+                  <nationality>English</nationality>
+               </person>
+               <person xml:id="MarstonPhilipBourke">
+                  <persName>
+                     <surname>Marston</surname>
+                     <forename>Philip</forename>
+                     <forename>Bourke</forename>
+                  </persName>
+                  <birth/>
+                  <death/>
+                  <occupation>Writer</occupation>
+                  <nationality>English</nationality>
+               </person>
+               <person xml:id="JamesMaria" sex="2">
+                  <persName><surname>James</surname><forename>Maria</forename></persName>
+                  <note>Maria James was a friend of Dinah's from her days in Camden.</note>
+               </person>
+               <person/>
+               <person xml:id="GaskellElizabeth">
+                  <persName>
+                     <surname type="married">Gaskell</surname>
+                     <forename>Elizabeth</forename>
+                  </persName>
+                  <note>Elizabeth Gaskell was a novelist and acquaintance of Dinah Craik's.</note>
+               </person>
+               <person xml:id="DobellSydney">
+                  <persName>
+                     <surname>Dobell</surname>
+                     <forename>Sydney</forename>
+                  </persName>
+                  <birth when="1824"/>
+                  <death when="1874"/>
+                  <occupation>Writer</occupation>
+                  <nationality>English</nationality>
+                  <affiliation>Spasmodic Poets</affiliation>
+                  <!-- http://www.unz.org/Pub/BookmanUK-1927jan-00207 Bookman article on Sydney -->
+               </person>
+               <person xml:id="DobellClarence" sex="1">
+                  <persName>
+                     <surname>Dobell</surname>
+                     <forename>Clarence</forename>
+                  </persName>
+                  <birth when="1836"/>
+                  <death when="1917"/>
+                  <occupation>Artist</occupation>
+                  <nationality>English</nationality>
+               </person>
+               <person xml:id="DobellEmily" sex="2">
+                  <persName>
+                     <forename>Emily</forename>
+                     <surname type="maiden">Duffield</surname>
+                     <surname type="married">Dobell</surname>
+                  </persName>
+                  <nationality>English</nationality>
+                  <note>Wife of <persName ref="#DobellClarence">Clarence Dobell</persName></note>
+               </person>
+               <person xml:id="DobellWalter" sex="1">
+                  <persName><forename>Walter</forename>
+                     <surname>Dobell</surname>
+                  </persName>
+                  <note>Son of <persName ref="#DobellClarence">Clarence</persName> and <persName
+                        ref="#DobellEmily">Emily Dobell</persName></note>
+               </person>
+               <person xml:id="RiviereBriton" sex="1">
+                  <persName>
+                     <surname>Riviere</surname>
+                     <forename>Briton</forename>
+                  </persName>
+                  <nationality>English</nationality>
+                  <occupation>Artist</occupation>
+                  <affiliation>Oxford University</affiliation>
+                  <affiliation>Royal Academy</affiliation>
+                  <affiliation>Good Words</affiliation>
+                  <event type="marriage" when="1867-08-06">
+                     <label>Marriage</label>
+                     <desc><persName ref="#MaryDobell">Mary Alice Dobell</persName> married
+                           <persName ref="#BritonRiviere">Briton Riviere</persName>.</desc>
+                  </event>
+               </person>
+               <person xml:id="DobellMary" sex="2">
+                  <persName>
+                     <surname type="maiden">Dobell</surname>
+                     <surname type="married">Riviere</surname>
+                     <forename>Mary</forename>
+                     <forename>Alice</forename>
+                  </persName>
+                  <nationality>English</nationality>
+                  <residence>Detmore House</residence>
+                  <event type="marriage" when="1867-08-06">
+                     <label>Marriage</label>
+                     <desc><persName ref="#MaryDobell">Mary Alice Dobell</persName> married
+                           <persName ref="#BritonRiviere">Briton Riviere</persName>.</desc>
+                  </event>
+               </person>
+               <person xml:id="JollyEllen" sex="2">
+                  <persName>
+                     <surname type="married">Jolly</surname>
+                     <surname type="maiden">Dobell</surname>
+                     <forename>Ellen</forename>
+                     <addName>Mrs. Paul Jolly</addName>
+                  </persName>
+                  <nationality>English</nationality>
+               </person>
+               <person xml:id="JollyPaul" sex="1">
+                  <persName>
+                     <surname>Jolly</surname>
+                     <forename>Paul</forename>
+                  </persName>
+               </person>
+               <person xml:id="DobellNora" sex="2"/>
+               <person xml:id="DobellJohn" sex="1"/>
+               <person xml:id="DobellJulietta" sex="2">
+                  <persName>
+                     <surname type="married">Dobell</surname>
+                     <surname type="maiden">Thompson</surname>
+                     <forename>Julietta</forename>
+                  </persName>
+                  <note>The matriarch of the Dobell clan. Ursula March in Craik's novel <title>John
+                        Halifax, Gentleman</title> may have been based on her.</note>
+               </person>
+               <!-- These last Dobells are from a geneaology website, haven't run into them in the letters so much  http://www.wikitree.com/genealogy/Dobell-Family-Tree-23 -->
+
+               <person xml:id="DobellEdmund" sex="1"/>
+               <person xml:id="DobellIsabella" sex="2"/>
+               <person xml:id="DobellClara" sex="2"/>
+               <person xml:id="DobellClerma" sex="2"/>
+               <person xml:id="DobellHorace" sex="1"/>
+               <person xml:id="DobellCyrus" sex="1"/>
+               <person xml:id="DrysdaleLady" sex="2">
+                  <persName>
+                     <surname>Drysdale</surname>
+                     <forename/>
+                     <roleName>Lady</roleName>
+                  </persName>
+                  <birth when="1787"/>
+                  <death when="1887"/>
+                  <occupation/>
+                  <nationality/>
+                  <affiliation>Moor Park</affiliation>
+               </person>
+               <person xml:id="LaneMary" sex="2">
+                  <persName>
+                     <surname type="married">Drysdale</surname>
+                     <surname type="maiden">Lane</surname>
+                     <forename>Mary</forename>
+                     <forename>Margaret</forename>
+                  </persName>
+                  <birth when="1823"/>
+                  <death when="1891"/>
+               </person>
+               <person xml:id="LaneEdward" sex="1">
+                  <persName>
+                     <surname>Lane</surname>
+                     <forename>Edward</forename>
+                     <forename>Wickstead</forename>
+                  </persName>
+                  <birth when="1822"/>
+                  <death when="1891"/>
+                  <occupation>Doctor</occupation>
+                  <affiliation>Moor Park</affiliation>
+               </person>
+               <person xml:id="DrysdaleCharles" sex="1">
+                  <persName>
+                     <surname>Drysdale</surname>
+                     <forename>Charles</forename>
+                     <forename>Robert</forename>
+                  </persName>
+                  <birth notBefore="1828" notAfter="1829"/>
+                  <death when="1907"/>
+                  <occupation>Doctor</occupation>
+                  <occupation>Writer</occupation>
+                  <nationality>Scottish</nationality>
+                  <affiliation>Trinity College, Cambridge</affiliation>
+                  <affiliation>University College, London</affiliation>
+                  <affiliation>University of St Andrews</affiliation>
+               </person>
+               <person xml:id="DrysdaleGeorge" sex="1">
+                  <persName>
+                     <surname>Drysdale</surname>
+                     <forename>George</forename>
+                  </persName>
+                  <birth when="1824"/>
+                  <death when="1904"/>
+                  <occupation>Writer</occupation>
+                  <occupation>Doctor</occupation>
+                  <nationality>Scottish</nationality>
+                  <affiliation>Glasgow University</affiliation>
+                  <affiliation>Moor Park</affiliation>
+               </person>
+               <person xml:id="MacreadyWilliamCharles" sex="1">
+                  <persName>
+                     <surname>Macready</surname>
+                     <forename>William</forename>
+                     <forename>Charles</forename>
+                  </persName>
+                  <birth/>
+                  <death/>
+                  <occupation/>
+                  <nationality/>
+                  <note type="bio" resp="#BourrierKaren">Dinah knew Macready in her youth from her
+                     time in London. According to Aleyn Lyell Reade her father got into a huge fight
+                     with Macready.</note>
+               </person>
+               <person xml:id="HolmanHunt" sex="1">
+                  <persName>
+                     <surname>Hunt</surname>
+                     <forename>Holman</forename>
+                     <forename>William</forename>
+                  </persName>
+                  <birth when="1827"/>
+                  <death when="1910"/>
+                  <occupation>Artist</occupation>
+                  <nationality>English</nationality>
+                  <affiliation ref="#PRB">Pre-Raphaelite Brotherhood</affiliation>
+               </person>
+               <person xml:id="WaughFanny" sex="2">
+                  <persName>
+                     <surname type="maiden">Waugh</surname>
+                     <forename type="married">Hunt</forename>
+                     <addName>Fanny</addName>
+                  </persName>
+                  <birth/>
+                  <death/>
+                  <occupation/>
+                  <nationality/>
+                  <note type="bio">Holman Hunt's first wife, not sure if Craik knew her well.</note>
+               </person>
+               <person xml:id="WaughEdith" sex="2">
+                  <persName>
+                     <surname type="maiden">Waugh</surname>
+                     <surname type="married">Hunt</surname>
+                     <forename>Edith</forename>
+                  </persName>
+                  <birth/>
+                  <death/>
+                  <occupation/>
+                  <nationality/>
+                  <note type="bio">Edith Waugh was William Holman Hunt's second wife, and the sister
+                     of his first wife Fanny Waugh. Dinah Craik chaperoned her to Switzerland for
+                     her marriage to Holman Hunt in 1875?, when the Deceased Wife's Sister Act made
+                     such a marriage illegal.</note>
+               </person>
+               <person xml:id="HuntGladysHolman" sex="2">
+                  <persName>
+                     <surname>Hunt</surname>
+                     <forename>Gladys</forename>
+                     <forename>Millais</forename>
+                     <forename>Mulock</forename>
+                     <forename>Holman</forename>
+                  </persName>
+                  <birth/>
+                  <death/>
+                  <occupation/>
+                  <nationality/>
+                  <note type="bio" resp="#BourrierKaren">Dinah's goddaughter and the first child of
+                        <persName ref="#EdithWaugh">Edith Waugh</persName> and <persName
+                        ref="#HolmanHunt">Holman Hunt</persName></note>
+               </person>
+               <person xml:id="BlackettHenry" sex="1">
+                  <persName><forename>Henry</forename>
+                     <surname>Blackett</surname></persName>
+                  <birth when="1825"/>
+                  <death when="1871"/>
+                  <occupation>Publisher</occupation>
+                  <nationality>English</nationality>
+                  <affiliation><orgName ref="#HurstBlackett">Hurst and
+                     Blackett</orgName></affiliation>
+               </person>
+               <person xml:id="BrightJohn" sex="1">
+                  <persName><forename>John</forename>
+                     <surname>Bright</surname></persName>
+                  <birth when="1811"/>
+                  <death when="1889"/>
+                  <occupation>Politician</occupation>
+                  <nationality>English</nationality>
+               </person>
+               <person xml:id="GladstoneWilliam" sex="1">
+                  <persName><forename>William</forename>
+                     <forename>Ewart</forename>
+                     <surname>Gladstone</surname>
+                  </persName>
+                  <birth when="1809"/>
+                  <death when="1898"/>
+                  <occupation>Prime Minister</occupation>
+                  <occupation>Prime Minister</occupation>
+                  <nationality>English</nationality>
+               </person>
+               <person xml:id="BensonEdward" sex="1">
+                  <persName><forename>Edward</forename>
+                     <forename>White</forename>
+                     <surname>Benson</surname>
+                     <roleName>Archbishop</roleName>
+                  </persName>
+                  <birth when="1829"/>
+                  <death when="1896"/>
+                  <occupation from="1883" to="1896">Archbishop of Canterbury</occupation>
+                  <occupation>Clergyman</occupation>
+               </person>
+               <person xml:id="TempleFrederick" sex="1">
+                  <persName>
+                     <forename>Frederick</forename>
+                     <surname>Temple</surname>
+                     <roleName>Archbishop</roleName>
+                  </persName>
+                  <birth when="1821"/>
+                  <death when="1902"/>
+                  <occupation from="1897" to="1902">Archbishop of Canterbury</occupation>
+                  <occupation>Clergyman</occupation>
+               </person>
+               <person xml:id="MacmillanAlexander" sex="1">
+                  <persName>
+                     <surname>Macmillan</surname>
+                     <forename>Alexander</forename>
+                  </persName>
+                  <birth when="1818"/>
+                  <death when="1896"/>
+                  <occupation>Publisher</occupation>
+                  <nationality>Scottish</nationality>
+                  <affiliation ref="#Macmillan">Macmillan</affiliation>
+               </person>
+               <person xml:id="MacmillanDaniel" sex="1">
+                  <persName>
+                     <surname>Macmillan</surname>
+                     <forename>Daniel</forename>
+                  </persName>
+                  <birth when="1813"/>
+                  <death when="1857"/>
+                  <occupation>Publisher</occupation>
+                  <nationality>Scottish</nationality>
+                  <affiliation ref="#Macmillan">Macmillan</affiliation>
+               </person>
+               <person xml:id="GuizotFrancois" sex="1">
+                  <persName><surname>Guizot</surname><forename>Francois</forename></persName>
+                  <birth when="1787"/>
+                  <death when="1874"/>
+                  <occupation>Politician</occupation>
+                  <occupation>Writer</occupation>
+                  <nationality>French</nationality>
+                  <note type="bio" resp="#FukushimaKailey">Dinah Craik translated works by François
+                     Guizot and his daughter <persName ref="#DeWittHenrietteGuizot">Henriette Guizot
+                        de Witt</persName>.</note>
+               </person>
+               <person xml:id="DeWittHenriette" sex="2">
+                  <persName>
+                     <surname type="maiden">Guizot</surname>
+                     <surname type="married"><nameLink>de</nameLink> Witt</surname>
+                     <forename>Henriette</forename></persName>
+                  <birth when="1829"/>
+                  <death when="1908"/>
+                  <occupation>Author</occupation>
+                  <nationality>French</nationality>
+                  <note type="bio" resp="#FukushimaKailey">Dinah Craik translated works by Henriette
+                     Guizot de Witt and her father <persName ref="#GuizotFrançois">François
+                        Guizot</persName>.</note>
+               </person>
+               <person xml:id="DoreGustave" sex="1">
+                  <persName><surname>Dore</surname><forename>Gustave</forename></persName>
+                  <birth> </birth>
+                  <death/>
+                  <occupation>Artist</occupation>
+               </person>
+               <person xml:id="ShawRichardNorman" sex="1">
+                  <persName>
+                     <surname>Shaw</surname>
+                     <forename>Richard</forename>
+                     <forename>Norman</forename>
+                  </persName>
+                  <birth when="1831"/>
+                  <death when="1912"/>
+                  <nationality>Scottish</nationality>
+                  <occupation>Architect</occupation>
+                  <affiliation ref="#RoyalAcademy">Royal Academy</affiliation>
+               </person>
+               <person xml:id="ChapmanFrederic" sex="1">
+                  <persName><surname>Chapman</surname>
+                     <forename>Frederic</forename>
+                  </persName>
+                  <birth when="1823"/>
+                  <death when="1895"/>
+                  <nationality>English</nationality>
+                  <occupation>Publisher</occupation>
+               </person>
+               <person xml:id="ChapmanClara" sex="2">
+                  <persName>
+                     <surname type="married">Chapman</surname>
+                     <forename>Clara</forename>
+                  </persName>
+                  <death when="1866"/>
+               </person>
+
+               <person xml:id="BrowningElizabethBarrett" sex="2">
+                  <persName><surname type="married">Browning</surname><surname type="maiden"
+                        >Barrett</surname><forename>Elizabeth</forename></persName>
+                  <birth when="1806"/>
+                  <death when="1861"/>
+                  <nationality>English</nationality>
+                  <occupation>Writer</occupation>
+               </person>
+               <person xml:id="BrowningRobert" sex="1">
+                  <persName><surname>Browning</surname><forename>Robert</forename></persName>
+               </person>
+               <person xml:id="BulwerLyttonEdward">
+                  <persName>Edward Bulwer-Lytton</persName>
+               </person>
+               <person xml:id="HerfordLaura" sex="2">
+                  <persName>
+                     <surname>Herford</surname>
+                     <forename>Laura</forename>
+                  </persName>
+                  <birth/>
+                  <death/>
+                  <occupation>Artist</occupation>
+                  <nationality/>
+                  <note type="bio">Laura Herford, the first woman to be admitted to the <orgName
+                        ref="#RoyalAcademy">Royal Academy</orgName>, was a close friend of Dinah
+                     Craik's. She was aunt to the illustrator <persName ref="#AllinghamHelen">Helen
+                        Allingham</persName>.</note>
+               </person>
+               <person xml:id="AllinghamHelen" sex="2">
+                  <persName><surname type="married">Allingham</surname><surname type="maiden"
+                        >Paterson</surname><forename>Helen</forename></persName>
+                  <birth when="1848"/>
+                  <death when="1926"/>
+                  <occupation>Artist</occupation>
+                  <nationality>English</nationality>
+                  <event type="marriage" when="1874">
+                     <label>Marriage</label>
+                     <desc><persName ref="#AllinghamWilliam">William Allingham</persName> married
+                           <persName ref="#AllinghamHelen">Helen Allingham</persName>.</desc>
+                  </event>
+                  <note>Artist Helen Allingham illustrated Craik's work. She was niece to the artist
+                     Laura Herford.</note>
+               </person>
+               <person xml:id="AllinghamWilliam" sex="1">
+                  <persName><surname>Allingham</surname><forename>William</forename></persName>
+                  <birth when="1824"/>
+                  <death when="1889"/>
+                  <occupation>Author</occupation>
+                  <nationality>Irish</nationality>
+                  <event type="marriage" when="1874">
+                     <label>Marriage</label>
+                     <desc><persName ref="#AllinghamWilliam">William Allingham</persName> married
+                           <persName ref="#AllinghamHelen">Helen Allingham</persName>.</desc>
+                  </event>
+               </person>
+               <person xml:id="MillaisJohn" sex="1">
+                  <persName>
+                     <surname>Millais</surname>
+                     <forename>John</forename>
+                     <forename>Everett</forename>
+                     <roleName/>
+                  </persName>
+                  <birth when="1829"/>
+                  <death when="1896"/>
+                  <occupation>Artist</occupation>
+                  <nationality>English</nationality>
+                  <affiliation ref="#PRB">Pre-Raphaelite Brotherhood</affiliation>
+               </person>
+               <person xml:id="LeightonFrederick" sex="1">
+                  <persName>
+                     <surname>Leighton</surname>
+                     <forename>Frederick</forename>
+                     <roleName>Sir</roleName>
+                     <roleName>Baron</roleName>
+                  </persName>
+                  <birth when="1830"/>
+                  <death when="1896"/>
+                  <occupation>Artist</occupation>
+                  <occupation from="1878" to="1896">President of the <orgName ref="#RoyalAcademy"
+                        >Royal Academy</orgName></occupation>
+                  <nationality>English</nationality>
+               </person>
+               <person xml:id="MissFanny">
+                  <persName/>
+                  <birth> </birth>
+                  <death/>
+                  <occupation>Servant</occupation>
+                  <note>A servant in the Craiks' first household as a married couple, Upper Tooting.
+                     See Letter to Miss Rankin in the Parrish Collection, Princeton.</note>
+               </person>
+               <person xml:id="PatonJosephNoel">
+                  <persName>
+                     <surname>Paton</surname>
+                     <forename>Joseph</forename>
+                     <forename>Noel</forename>
+                     <roleName>Sir</roleName>
+                  </persName>
+                  <birth when="1821"/>
+                  <death when="1901"/>
+                  <occupation>Artist</occupation>
+                  <nationality>Scottish</nationality>
+                  <affiliation>Royal Academy</affiliation>
+               </person>
+               <person xml:id="PatonMaggie" sex="2">
+                  <persName>
+                     <surname>Gourlay</surname>
+                     <surname>Paton</surname>
+                     <forename>Margaret</forename>
+                     <addName>Maggie</addName>
+                  </persName>
+                  <birth/>
+                  <death when="1900"/>
+                  <residence>33 George Square, Edinburgh</residence>
+                  <nationality>Scottish</nationality>
+               </person>
+               <person xml:id="CraikGeorge" sex="1">
+                  <persName>
+                     <surname>Craik</surname>
+                     <forename>George</forename>
+                     <forename>Lillie</forename>
+                  </persName>
+                  <birth> </birth>
+                  <death/>
+                  <occupation>Publisher</occupation>
+                  <occupation>Accountant</occupation>
+                  <affiliation>Macmillan</affiliation>
+                  <nationality>Scottish</nationality>
+                  <note>Dinah Craik's husband.</note>
+               </person>
+               <person xml:id="CraikHenry" sex="1">
+                  <persName>
+                     <surname>Craik</surname>
+                     <forename>Henry</forename>
+                  </persName>
+                  <birth when="1846"/>
+                  <death when="1927"/>
+                  <occupation>Civil Servant</occupation>
+                  <occupation>Author</occupation>
+                  <nationality>Scottish</nationality>
+                  <note type="bio">The brother of Dinah's husband George.</note>
+               </person>
+               <person xml:id="CraikJames" sex="1">
+                  <persName>
+                     <surname>Craik</surname>
+                     <forename>James</forename>
+                     <roleName>Reverend</roleName>
+                  </persName>
+                  <birth/>
+                  <death/>
+                  <occupation>Clergyman</occupation>
+                  <nationality>Scottish</nationality>
+                  <note type="bio">The brother of Dinah's husband George.</note>
+               </person>
+               <person xml:id="CraikMargaret" sex="2">
+                  <persName>
+                     <surname type="married">Craik</surname>
+                     <surname type="maiden">Grieve</surname>
+                     <forename>Margaret</forename>
+                  </persName>
+                  <birth/>
+                  <death/>
+                  <nationality>Scottish</nationality>
+                  <note type="bio">Dinah's mother-in-law</note>
+               </person>
+               <person xml:id="CraikGeorgiana" sex="2">
+                  <persName>
+                     <surname>Craik</surname>
+                     <forename>Georgiana</forename>
+                  </persName>
+                  <birth when="1831"/>
+                  <death when="1895"/>
+                  <occupation>Author</occupation>
+                  <nationality>English</nationality>
+                  <note>A cousin of Dinah's husband, who Dinah knew well beforehand. Born in
+                     Brompton, London, but lived in Ireland</note>
+               </person>
+               <person xml:id="CraikGeorgeLillieSr" sex="1">
+                  <persName>
+                     <surname>Craik</surname>
+                     <forename>George</forename>
+                     <forename>Lillie</forename>
+                  </persName>
+                  <birth when="1798"/>
+                  <death when="1866"/>
+                  <occupation>Author</occupation>
+                  <nationality>Scottish</nationality>
+                  <affiliation>University of St Andrews</affiliation>
+                  <note>The author of <title>The New Zealanders</title>, which Dinah read as a
+                     child. The father of Georgiana Craik and the uncle of Dinah's husband, also
+                     George Lillie Craik. He took up a post in Ireland.</note>
+               </person>
+               <person xml:id="CraikDorothy" sex="2">
+                  <persName>
+                     <surname>Craik</surname>
+                     <surname>Pilkington</surname>
+                     <forename>Dorothy</forename>
+                  </persName>
+                  <birth/>
+                  <death/>
+                  <nationality>English</nationality>
+               </person>
+               <person xml:id="PilkingtonAlexander" sex="1">
+                  <persName>
+                     <surname>Pilkington</surname>
+                     <forename>Alexander</forename>
+                  </persName>
+                  <birth/>
+                  <death/>
+               </person>
+               <person xml:id="PatonFrederick" sex="1">
+                  <persName>
+                     <surname>Paton</surname>
+                     <forename>Frederick</forename>
+                     <forename>Noel</forename>
+                  </persName>
+                  <birth/>
+                  <death/>
+                  <occupation>Artist</occupation>
+               </person>
+               <person xml:id="PatonMona" sex="2">
+                  <persName>
+                     <surname type="maiden">Paton</surname>
+                     <surname type="married">Kidston</surname>
+                     <forename>Mona</forename>
+                  </persName>
+                  <birth> </birth>
+                  <death/>
+                  <occupation>Author</occupation>
+                  <nationality>Scottish</nationality>
+                  <note type="bio" resp="#BourrierKaren">The eldest daughter of Noel and Margaret
+                     Paton. She had a difficult adolescence, and came to stay with the Craik's every
+                     spring for several years.</note>
+               </person>
+               <person xml:id="KidstonJack" sex="1">
+                  <persName>
+                     <surname>Kidston</surname>
+                     <forename>Jack</forename>
+                  </persName>
+                  <nationality/>
+                  <note type="bio" resp="BourrierKaren">Jack Kidston was husband to <persName
+                        ref="#PatonMona">Mona Paton</persName>, and Vicar of Hampton Poyle, near
+                     Oxford. Initially the couple was very happy, but the marriage ended in divorce
+                     when Mona became a Theosophist</note>
+               </person>
+               <person xml:id="CockerellOlive" sex="2">
+                  <persName/>
+                  <birth/>
+                  <death/>
+                  <occupation>Artist</occupation>
+                  <occupation>Author</occupation>
+               </person>
+               <person xml:id="CockerellSydney" sex="1">
+                  <persName>
+                     <surname>Cockerell</surname>
+                     <forename>Sydney</forename>
+                  </persName>
+                  <birth when="1867"/>
+                  <death when="1962"/>
+                  <occupation>Curator</occupation>
+                  <affiliation>Fitzwilliam Museum</affiliation>
+               </person>
+               <person xml:id="CockerellCharles">
+                  <persName><surname>Cockerell</surname><forename>Charles</forename></persName>
+               </person>
+               <person xml:id="BrahamLeonora" sex="2">
+                  <persName>
+                     <surname type="stage">Braham</surname>
+                     <surname type="maiden">Abraham</surname>
+                     <surname type="married">Barnes</surname>
+                     <forename>Leonora</forename>
+                     <forename>Lucy</forename>
+                     <addName>Lily</addName>
+                  </persName>
+                  <birth when="1853"/>
+                  <death when="1931"/>
+                  <occupation>Actor</occupation>
+                  <occupation>Musician</occupation>
+                  <nationality>English</nationality>
+                  <note type="bio">Soprano famous for several Gilbert and Sullivan roles, mentored
+                     by Craik, who tried to get her out of acting.</note>
+               </person>
+               <person xml:id="BarnesFrederick" sex="1">
+                  <persName/>
+                  <birth> </birth>
+                  <death/>
+                  <occupation>Actor?</occupation>
+                  <nationality/>
+                  <note type="bio">Husband of Lily Barnes who committed suicide.</note>
+               </person>
+               <person xml:id="MissRankin" sex="2">
+                  <persName>
+                     <surname>Rankin</surname>
+                     <forename/>
+                  </persName>
+                  <birth/>
+                  <death/>
+                  <occupation/>
+                  <nationality/>
+                  <note>A friend of Craik's from Wemyss Bay. A directory lists a Miss Rankin of
+                     Rothesay in 1857. </note>
+               </person>
+               <person xml:id="MissNair" sex="2">
+                  <persName>Miss W. Nair</persName>
+                  <birth/>
+                  <death/>
+                  <occupation/>
+                  <nationality/>
+                  <note>Appears to be a friend of Craik's from Wemyss Bay.</note>
+               </person>
+               <person xml:id="Boyd" sex="1">
+                  <persName>
+                     <surname>Boyd</surname>
+                     <forename/>
+                  </persName>
+                  <birth/>
+                  <death/>
+                  <occupation/>
+                  <nationality/>
+                  <note>Appears to be a friend of Craik's from Wemyss Bay, and an organist.</note>
+               </person>
+               <person xml:id="ThomsonAndrew" sex="1">
+                  <persName>
+                     <surname>Thomson</surname>
+                     <forename>Andrew</forename>
+                  </persName>
+                  <birth/>
+                  <death/>
+                  <occupation>Education</occupation>
+                  <nationality/>
+                  <note>A professor and friend of Dinah's from Wemyss Bay.</note>
+               </person>
+               <person xml:id="Davidson" sex="2">
+                  <persName>
+                     <surname>Davidson</surname>
+                     <forename/>
+                  </persName>
+                  <birth/>
+                  <death/>
+                  <occupation/>
+                  <nationality/>
+                  <note>Appears to be a friend of Craik's from Wemyss Bay.</note>
+               </person>
+               <person xml:id="Annie" sex="2">
+                  <persName>
+                     <forename>Annie</forename>
+                  </persName>
+                  <birth/>
+                  <death/>
+                  <occupation/>
+                  <nationality>Scottish</nationality>
+                  <note>A domestic servant who followed the Craiks from
+                        <placeName>Glasgow</placeName> to <placeName>England</placeName>, only to be
+                     married back in <placeName>Glasgow</placeName> soon after.</note>
+               </person>
+               <person xml:id="Oxland" sex="2">
+                  <persName>
+                     <forename/>
+                     <surname>Oxland</surname>
+                  </persName>
+                  <birth/>
+                  <death/>
+                  <occupation>Education</occupation>
+                  <nationality/>
+                  <note><persName ref="#Oxland">Miss Oxland</persName> was <persName
+                        ref="#CraikDorothy">Dorothy</persName> and <persName ref="#CockerellOlive"
+                        >Olive's</persName> governess.</note>
+               </person>
+               <person xml:id="Jennings" sex="2">
+                  <persName>
+                     <forename/>
+                     <surname>Jennings</surname>
+                  </persName>
+                  <birth/>
+                  <death/>
+                  <occupation/>
+                  <nationality/>
+                  <note><persName ref="#Jennings">Miss Jennings</persName> was an acquaintance of
+                     the Craiks, possibly a governess or nuse of <persName ref="#CraikDorothy"
+                        >Dorothy's</persName>.</note>
+               </person>
+               <person xml:id="Arnold" sex="1">
+                  <persName>
+                     <forename>Arnold</forename>
+                     <surname/>
+                  </persName>
+                  <birth/>
+                  <death/>
+                  <occupation/>
+                  <nationality/>
+                  <note><persName ref="#Arnold">Arnold</persName>, an acquaintance at <persName
+                        ref="#DMC">Craik's</persName> Mulock Aunt's house in <placeName ref="#Bath"
+                        >Bath</placeName>, appears to be married to <persName ref="#Gertrude"
+                        >Gertrude</persName>.</note>
+               </person>
+               <person xml:id="Gertrude" sex="2">
+                  <persName>
+                     <forename>Gertrude</forename>
+                     <surname/>
+                  </persName>
+                  <birth/>
+                  <death/>
+                  <occupation/>
+                  <nationality/>
+                  <note><persName ref="#Gertrude">Gertrude</persName>, an acquaintance at Craik's
+                     Mulock Aunt's house in <placeName ref="#Bath">Bath</placeName>, appears to be
+                     married to <persName ref="#Arnold">Arnold</persName>.</note>
+               </person>
+               <person xml:id="Keene" sex="1">
+                  <persName>
+                     <forename/>
+                     <surname>Keene</surname>
+                  </persName>
+                  <birth/>
+                  <death/>
+                  <occupation/>
+                  <nationality/>
+                  <note>An acquaintance of the Craiks, possibly a neighbour at the <placeName
+                        ref="#CornerHouse">Corner House</placeName>.</note>
+               </person>
+               <person xml:id="KeeneMrs" sex="2">
+                  <persName>
+                     <forename/>
+                     <surname>Keene</surname>
+                  </persName>
+                  <birth/>
+                  <death/>
+                  <occupation/>
+                  <nationality/>
+                  <note>An acquaintance of the Craiks, possibly a neighbour at the <placeName
+                        ref="#CornerHouse">Corner House</placeName>.</note>
+               </person>
+               <person xml:id="Holland" sex="2">
+                  <persName>
+                     <forename/>
+                     <surname>Holland</surname>
+                  </persName>
+                  <birth/>
+                  <death/>
+                  <occupation/>
+                  <nationality/>
+                  <note>An acquaintance of the Craiks, possibly a neighbour at the <placeName
+                        ref="#CornerHouse">Corner House</placeName>.</note>
+               </person>
+               <person xml:id="Smith" sex="1">
+                  <persName>
+                     <forename/>
+                     <surname>Keene</surname>
+                     <roleName>Dr</roleName>
+                  </persName>
+                  <birth/>
+                  <death/>
+                  <occupation/>
+                  <nationality/>
+                  <note>An acquaintance of the Craiks, possibly a neighbour at the <placeName
+                        ref="#CornerHouse">Corner House</placeName>.</note>
+               </person>
+               <person xml:id="BewleyNed" sex="1">
+                  <persName>
+                     <forename/>
+                     <surname>Bewley</surname>
+                     <addName>Ned</addName>
+                  </persName>
+                  <birth/>
+                  <death/>
+                  <occupation/>
+                  <nationality/>
+                  <note>An acquaintance of the Craiks, a young boy around <persName
+                        ref="#CraikDorothy">Dorothy's</persName> age.</note>
+               </person>
+               <person xml:id="BewleyMay" sex="2">
+                  <persName>
+                     <forename>May</forename>
+                     <surname>Bewley</surname>
+                  </persName>
+                  <birth/>
+                  <death/>
+                  <occupation/>
+                  <nationality/>
+                  <note>An acquaintance of the Craiks, the sister of <persName ref="#BewleyNed">Ned
+                        Bewley</persName></note>
+               </person>
+               <person xml:id="Orrinsmith" sex="2">
+                  <persName>
+                     <forename/>
+                     <surname>Orrinsmith</surname>
+                  </persName>
+                  <birth/>
+                  <death/>
+                  <occupation/>
+                  <nationality/>
+                  <note>An acquaintance of the Craiks, possibly a neighbour at the <placeName
+                        ref="#CornerHouse">Corner House</placeName></note>
+               </person>
+               <person xml:id="PaynJames" sex="1">
+                  <persName>
+                     <forename>James</forename>
+                     <surname>Payn</surname>
+                  </persName>
+                  <birth/>
+                  <death/>
+                  <occupation/>
+                  <nationality/>
+                  <note>Novelist and editor of the <title ref="#Cornhill">Cornhill Magazine</title>
+                     from 1883 to 1896.</note>
+               </person>
+               <person xml:id="AndersonStewart" sex="1">
+                  <persName>
+                     <forename>Stewart</forename>
+                     <surname>Anderson</surname>
+                  </persName>
+                  <note>An acquaintance of Craik's from later in life, seems to be stepson to
+                     Luigi.</note>
+               </person>
+               <person xml:id="MeoCarmela">
+                  <persName>
+                     <surname>Meo</surname>
+                     <forename>Carmela</forename>
+                  </persName>
+                  <occupation>Musician</occupation>
+                  <note>A young Italian girl whom Dinah met in 1885. She took up a subscription
+                     among her friends to have her placed at the <orgName ref="#RoyalCollegeMusic">
+                        Royal College of Music</orgName>. The relationship ended poorly two years
+                     later when Carmela determined to marry a young man Dinah found
+                     unsuitable.</note>
+               </person>
+               <person xml:id="WolleyH" sex="1">
+                  <persName><surname>Wolley</surname>
+                     <forename>H. F.</forename>
+                     <roleName>Reverend</roleName>
+                  </persName>
+                  <nationality>English</nationality>
+                  <note>Reverend Wolley was the Vicar of Shortlands Vicarage, Bromley, Kent. He and
+                     his wife were close friends of the Craiks</note>
+               </person>
+               <person xml:id="MrsWolley" sex="2">
+                  <persName><surname>Wolley</surname>
+                  </persName>
+                  <nationality>English</nationality>
+                  <note>Mrs. Wolley was the wife of <persName ref="#WolleyH">Reverend
+                        Wolley</persName> and a close friend of the Craiks.</note>
+               </person>
+               <person xml:id="LewesHarold">
+                  <persName>
+                     <forename>Harold</forename>
+                     <surname>Lewes</surname>
+                  </persName>
+                  <note>An acquaintance of Dinah's while she lived in the <placeName
+                        ref="#CornerHouse">Corner House</placeName></note>
+               </person>
+               <person xml:id="Bel">
+                  <persName><forename>Bel</forename></persName>
+                  <note>A young person and friend of Dinah's during her years at the <placeName
+                        ref="#CornerHouse">Corner House</placeName>. Seems to be a sister of
+                        <persName ref="#PikeConnie">Connie</persName></note>
+               </person>
+               <person xml:id="PikeConnie">
+                  <persName><forename>Connie</forename><surname>Pike</surname></persName>
+                  <note>A young person and friend of Dinah's during her years at the <placeName
+                        ref="#CornerHouse">Corner House</placeName>. Seems to be a sister of
+                        <persName ref="#Bel">Bel</persName></note>
+               </person>
+               <person xml:id="Bradway">
+                  <persName>Mrs. Bradway</persName>
+                  <note>Mrs. Bradway was a seamstress who worked for the Craiks in the 1880s.</note>
+               </person>
+               <person xml:id="Grubb">
+                  <persName>Miss Grubb</persName>
+                  <note>Seems to be the Craiks hatmaker in the 1880s.</note>
+               </person>
+               <person xml:id="EastlakeMiss">
+                  <persName>Miss Eastlake</persName>
+                  <note>Online: Miss Eastlake (1865 - 1899) popular English actress, leading lady in
+                     Wilson Barrett's company, started her own theater company which went bankrupt
+                  </note>
+               </person>
+               <person xml:id="BarrettWilson">
+                  <persName><forename>Wilson</forename>
+                     <surname>Barrett</surname></persName>
+                  <note>An actor whom Dinah Craik struck up a correspondence with late in
+                     life.</note>
+               </person>
+               <person xml:id="TennysonAlfred">
+                  <persName>Lord Alfred Tennyson</persName>
+               </person>
+               <person xml:id="TennsyonHallam">
+                  <persName>Hallam Tennyson</persName>
+                  <note>Lord Alfred Tennyson's son, named for his friend Arthur Hallam.</note>
+               </person>
+               <person xml:id="AddeyHenryMarkinfield" sex="1">
+                  <persName><surname>Addey</surname>
+                     <forename>Henry</forename>
+                     <forename>Markinfield</forename></persName>
+                  <birth when="1818"/>
+                  <death when="1910"/>
+                  <occupation>Publisher</occupation>
+                  <nationality/>
+                  <affiliation from="1845" to="1849">Employee of <orgName ref="#ChapmanHall">Chapman
+                        and Hall</orgName>.</affiliation>
+                  <affiliation from="1849" to="1852">Partner in publishing company <orgName
+                        ref="#CundallAddey">Cundall &amp; Addey</orgName>.</affiliation>
+                  <affiliation from="1852" to="1857">Proprietor of <orgName ref="#AddeyCo">Addey
+                        &amp; Co</orgName>.</affiliation>
+                  <note type="bio" resp="#FukushimaKailey">Mr. Addey was a publisher of children's
+                     literature. <persName ref="#DMC">Dinah Craik</persName> published "<title
+                        ref="#Hero">A Hero</title>" with <orgName ref="#AddeyCo">Addey &amp;
+                        Co</orgName> and also wrote for <orgName ref="#AddeyCo">Addey &amp;
+                        Co</orgName>'s children's periodical <title ref="#Charm">The
+                     Charm</title>.</note>
+               </person>
+               <person xml:id="ChapmanEdward" sex="1">
+                  <persName><surname>Chapman</surname>
+                     <forename>Edward</forename>
+                  </persName>
+                  <birth when="1804"/>
+                  <death when="1880"/>
+                  <occupation>Publisher</occupation>
+                  <nationality>English</nationality>
+                  <affiliation from="1830" to="1864">Partner in publishing company <orgName
+                        ref="#ChapmanHall">Chapman and Hall</orgName></affiliation>
+                  <note type="bio" resp="#FukushimaKailey">Edward Chapman founded <orgName
+                        ref="#ChapmanHall">Chapman and Hall</orgName> with <persName
+                        ref="#HallWilliam">William Hall</persName>, and worked with the company
+                     until his retirement in <date when="1864">1864</date>. </note>
+               </person>
+               <person xml:id="ChisholmCaroline" sex="2">
+                  <persName><surname type="married">Chisholm</surname>
+                     <surname type="maiden">Jones</surname>
+                     <forename>Caroline</forename>
+                  </persName>
+                  <birth when="1808-05-30"/>
+                  <death when="1877-03-25"/>
+                  <note type="bio" resp="#FukushimaKailey">Caroline Chisholm was an English humanitarian and immigration
+                     administrator who aimed to better the lives of girls and women in
+                     Australia.</note>
+               </person>
+               <person xml:id="CundallJoseph" sex="1">
+                  <persName><surname>Cundall</surname>
+                     <forename>Joseph</forename>
+                     <addName type="pseudonym">Stephen Percy</addName>
+                  </persName>
+                  <birth when="1818-09-22"/>
+                  <death when="1895-01-10"/>
+                  <occupation>Photographer, Author &amp; Publisher</occupation>
+                  <nationality>English</nationality>
+                  <affiliation from="1849" to="1868">Partner in publishing company <orgName
+                        ref="#CundallAddey">Cundall &amp; Addey</orgName>.</affiliation>
+                  <note type="bio" resp="#FukushimaKailey">Mr. Cundall was a successful photographer
+                     and a publisher of children's literature. </note>
+               </person>
+               <person xml:id="HallWilliam" sex="1">
+                  <persName><surname>Hall</surname>
+                     <forename>William</forename>
+                  </persName>
+                  <birth notBefore="1800" notAfter="1802"/>
+                  <death when="1847"/>
+                  <occupation>Publisher</occupation>
+                  <nationality>English</nationality>
+                  <affiliation from="1830" to="1847">Partner in publishing company <orgName
+                        ref="#ChapmanHall">Chapman and Hall</orgName></affiliation>
+                  <note type="bio" resp="#FukushimaKailey">William Hall founded <orgName
+                        ref="#ChapmanHall">Chapman and Hall</orgName> with <persName
+                        ref="#ChapmanEdward">Edward Chapman</persName>, and worked with the company
+                     until his sudden death in <date when="1847">1847</date>. </note>
+               </person>
+               <person xml:id="HerveyThomasKibble" sex="1">
+                  <persName><surname>Hervey</surname>
+                     <forename>Thomas</forename>
+                     <forename>Kibble</forename>
+                  </persName>
+                  <birth when="1799-02-11"/>
+                  <death when="1859-02-17"/>
+                  <occupation>Poet, Critic &amp; Editor</occupation>
+                  <nationality/>
+                  <affiliation from="1846-05-23" to="1853">Editor of <title ref="Athenaeum">the
+                        Athenaeum</title></affiliation>
+                  <note type="bio" resp="#FukushimaKailey">Thomas Kibble Hervey was a poet, critic,
+                     and journalist who contributed to and later edited the popular periodical
+                        <title ref="Athenaeum">the Athenaeum</title>.</note>
+               </person>
+               <person xml:id="HowittWMary" sex="2">
+                  <persName><surname type="married">Howitt</surname>
+                     <surname type="maiden">Botham</surname>
+                     <forename>Mary</forename>
+                  </persName>
+                  <birth when="1799-03-12"/>
+                  <death when="1888-01-30"/>
+                  <occupation>Writer &amp; Translator</occupation>
+                  <nationality>English</nationality>
+                  <affiliation/>
+                  <note type="bio" resp="#FukushimaKailey">Mary Howitt was a popular Victorian
+                     writer who published both independently and collaboratively with her husband
+                        <persName ref="#HowittWilliam">William Howitt</persName>. </note>
+               </person>
+               <person xml:id="HowittWilliam" sex="1">
+                  <persName><surname>Howitt</surname>
+                     <forename>William</forename>
+                  </persName>
+                  <birth when="1792-12-18"/>
+                  <death when="1879-03-03"/>
+                  <occupation>Writer</occupation>
+                  <nationality>English</nationality>
+                  <affiliation from="1847" to="1848">Proprietor of <title ref="HowittsJournal"
+                        >Howitt's Journal</title></affiliation>
+                  <note type="bio" resp="#FukushimaKailey">William Howitt was a popular Victorian
+                     writer who published both independently and collaboratively with his wife
+                        <persName ref="#HowittMary">Mary Howitt</persName>.</note>
+               </person>
+               <person xml:id="MorrisJane" sex="2">
+                  <persName><surname type="married">Morris</surname>
+                     <surname type="maiden">Burden</surname>
+                     <forename>Jane</forename>
+                  </persName>
+                  <birth when="1839-10-19"/>
+                  <death when="1914-01-26"/>
+                  <occupation>Embroiderer &amp; Artist's Model</occupation>
+                  <nationality/>
+                  <affiliation>Pre-Rafaelites</affiliation>
+                  <note type="bio" resp="#FukushimaKailey">Mrs. Morris was a skilled embroiderer who
+                     bound some of <persName ref="#DMC">Dinah Craik</persName>'s books. She was a
+                     model and muse for both her husband <persName ref="#MorrisWilliam">William
+                        Morris</persName>, and <persName ref="#RosettiDanteGabriel">Dante Gabriel
+                        Rosetti</persName>.</note>
+               </person>
+               <person xml:id="MorrisWilliam" sex="1">
+                  <persName><surname>Morris</surname>
+                     <forename>William</forename>
+                  </persName>
+                  <birth when="1834-03-24"/>
+                  <death when="1896-10-03"/>
+                  <occupation>Designer &amp; Author</occupation>
+                  <nationality/>
+                  <affiliation>Pre-Raphaelites</affiliation>
+               </person>
+               <person xml:id="MorrisMrs" sex="2">
+                  <persName><surname>Morris</surname></persName>
+                  <note type="bio" resp="#BourrierKaren">Mrs. Morris was an acquaintance of
+                        <persName ref="#DMC">Dinah Craik's</persName> in the early 1850s.</note>
+               </person>
+               <person xml:id="ChisholmMrs" sex="2">
+                  <persName><surname>Chisholm</surname></persName>
+                  <note type="bio" resp="#BourrierKaren">Mrs. Chisholm was an acquaintance of
+                        <persName ref="#DMC">Dinah Craik's</persName> in the early 1850s.</note>
+               </person>
+               <person xml:id="OliphantMargaret" sex="2">
+                  <persName><surname>Oliphant</surname>
+                     <forename>Margaret</forename>
+                     <forename>Oliphant</forename>
+                     <forename>Wilson</forename>
+                     <addName>Mrs. Oliphant</addName>
+                  </persName>
+                  <birth when="1828-04-04"/>
+                  <death when="1897-06-25"/>
+                  <occupation>Novelist</occupation>
+                  <nationality>Scottish</nationality>
+                  <affiliation/>
+                  <note type="bio" resp="#FukushimaKailey">Mrs. Oliphant was a best-selling
+                     Victorian novelist and a life long friend of <persName ref="#DMC">Dinah
+                        Craik</persName>'s.</note>
+               </person>
+               <person xml:id="PatonAllanPark">
+                  <persName><surname>Paton</surname>
+                     <forename>Allan</forename>
+                     <forename>Park</forename></persName>
+                  <occupation>Editor, Poet, &amp; Librarian</occupation>
+                  <nationality>Scottish</nationality>
+                  <affiliation/>
+                  <note type="bio" resp="#FukushimaKailey">Allan Park Paton was best known for
+                     editing the Hamnet Shakespeare, published between <date notBefore="1877"
+                        notAfter="1879">1877 and 1879</date>. He worked at the <placeName
+                        ref="#Greenock">Greenock</placeName> Library, Watt Monument.</note>
+               </person>
+               <person xml:id="RosettiDanteGabriel" sex="1">
+                  <persName><surname>Rosetti</surname>
+                     <forename>Dante</forename>
+                     <forename>Gabriel</forename>
+                  </persName>
+                  <birth when="1828-05-12"/>
+                  <death when="1882-04-09"/>
+                  <occupation>Painter &amp; Poet</occupation>
+                  <nationality>Anglo-Italian</nationality>
+                  <affiliation>Pre-Rafaelites</affiliation>
+               </person>
+
+
+               <!-- Stub entries on people from Craik's letters to her daughter, to be developed if possible -->
+               <person>
+                  <persName>Eunice</persName>
+                  <note>Referred to as Aunt Eunice</note>
+               </person>
+               <person>
+                  <persName>Jamie</persName>
+               </person>
+               <person>
+                  <persName>Adam</persName>
+               </person>
+               <person>
+                  <persName>Mrs. Scott</persName>
+               </person>
+               <person>
+                  <persName>Miss McDounell</persName>
+                  <note>owns a horse that Craik plans to borrow</note>
+               </person>
+               <person>
+                  <persName>Mrs. Dobbs</persName>
+               </person>
+               <person>
+                  <persName>Maggie Hooper</persName>
+                  <note> lives in Shortlands, Kent</note>
+               </person>
+               <person>
+                  <persName>Dr. Phillips</persName>
+               </person>
+               <person>
+                  <persName>Francis Mulock</persName>
+                  <note>Craik receives a letter from Mrs. Mulock saying Francis is dead in
+                     1887.</note>
+               </person>
+               <person>
+                  <persName>Mrs. White</persName>
+               </person>
+               <person xml:id="Jessie" sex="2">
+                  <persName>Jessie</persName>
+                  <note>A young servant of the Craiks in the 1880s in the Corner House.</note>
+               </person>
+               <person xml:id="Katie" sex="2">
+                  <persName>Katie</persName>
+                  <note>A servant of the Craiks in the 1880s.</note>
+               </person>
+               <person xml:id="CoxMrs" sex="2">
+                  <persName>Mrs. Cox</persName>
+               </person>
+               <person xml:id="David" sex="1">
+                  <persName>David</persName>
+                  <note>The French painter.</note>
+               </person>
+               <person xml:id="MarieAntoinette" sex="2">
+                  <persName>Marie Antoinette</persName>
+               </person>
+               <person xml:id="YongeCharlotte">
+                  <persName>Charlotte Mary Yonge</persName>
+                  <note>Novelist and author of the Heir of Redclyffe. George Craik was her publisher
+                     at Macmillan's.</note>
+               </person>
+               <person xml:id="DybeenMrs">
+                  <persName>Mrs. Dybeen </persName>
+                  <occupation>Servant</occupation>
+                  <note>The housekeeper at Dinah Craik's cottage in Dover.</note>
+               </person>
+               <!-- here the list of personal relationships start, right now focusing on family relations -->
+               <listRelation type="personal">
+                  <!--marriages-->
+                  <relation name="spouse" mutual="#JollyEllen #JollyPaul"/>
+                  <relation name="spouse" mutual="#HallSamuelCarter #HallAnnaMaria"/>
+                  <relation name="spouse" mutual="#DMC #CraikGeorge"/>
+                  <relation name="spouse" mutual="#CraikDorothy #PilkingtonAlexander"/>
+                  <relation name="spouse" mutual="#AllinghamHelen #AllinghamWilliam"/>
+                  <relation name="spouse" mutual="#BarnesFrederick #BrahamLeonora"/>
+                  <relation name="spouse" mutual="#HolmanHunt #WaughFanny"/>
+                  <relation name="spouse" mutual="#HolmanHunt #WaughEdith"/>
+                  <relation name="spouse" mutual="#LaneMary #LaneEdward"/>
+                  <relation name="spouse" mutual="#PatonMaggie #PatonJosep"/>
+                  <!-- Aunts and Uncles -->
+                  <relation name="aunt" active="#ReadeMary" passive="#DMC"/>
+                  <relation name="aunt" active="#HerfordLaura" passive="#AllinghamHelen"/>
+                  <relation name="aunt" active="#WaughFanny" passive="#HuntGladysHolman"/>
+                  <!--Siblings-->
+                  <relation name="sibling" mutual="#DMC #MulockTom #MulockBen"/>
+                  <relation name="sibling" mutual="#WaughEdith #WaughFanny"/>
+                  <relation name="sibling" mutual="#CockerellOlive #CockerellSydney"/>
+                  <relation name="sibling"
+                     mutual="#DobellSydney #DobellClarence #DobellNora #JollyEllen"/>
+                  <relation name="sibling" mutual="#DrysdaleGeorge #DrysdaleCharles #LaneMary"/>
+                  <relation name="sibling" mutual="#MacmillanDaniel #MacmillanAlexander"/>
+                  <relation name="sibling" mutual="#CraikGeorge #CraikHenry"/>
+                  <relation name="sibling" mutual="#LaneMary #DrysdaleGeorge #DrysdaleCharles"/>
+                  <!-- Parents and children -->
+                  <relation type="personal" name="child" active="#DMC #MulockBen #MulockTom"
+                     passive="#MulockThomas #MulockDinah"/>
+                  <relation name="child" active="#DrysdaleGeorge #DrysdaleCharles"
+                     passive="#DrysdaleLady"/>
+                  <relation name="child" active="#HuntGladysHolman"
+                     passive="#HolmanHunt #WaughEdith"/>
+                  <relation name="child" active="#CraikGeorgiana" passive="#CraikGeorgeLillieSr"/>
+                  <relation name="child" active="#MarstonPhilipBourke"
+                     passive="#MarstonWestland #MarstonEleanor"/>
+                  <relation name="child" active="#CraikHenry #CraikGeorge"
+                     passive="#JamesCraik #CraikMargaret"/>
+                  <relation name="child" active="#DeWittHenriette" passive="#GuizotFrancois"/>
+                  <relation name="child" active="#DrysdaleCharles #DrysdaleGeorge #LaneMary"
+                     passive="#DrysdaleLady"/>
+               </listRelation>
+               <!-- here the list of social or professional relationships start, right now focusing on publishers and illustrators-->
+               <listRelation type="social">
+                  <relation name="publisher" active="#HenryBlackett" passive="#DMC"/>
+                  <relation name="publisher" active="#AlexanderMacmillan" passive="#DMC #HenryCraik"/>
+                  <relation name="publisher" active="#FredericChapman" passive="#DMC"/>
+               </listRelation>
+            </listPerson>
+         </div>
+         <div type="organizations">
+            <head>Organizations</head>
+            <listOrg>
+               <org xml:id="AddeyCo" type="publisher">
+                  <orgName>Addey &amp; Co</orgName>
+               </org>
+               <org xml:id="CundallAddey" type="publisher">
+                  <orgName>Cundall &amp; Addey</orgName>
+               </org>
+               <org xml:id="SimsMcIntyre" type="publisher">
+                  <orgName>Sims &amp; McIntyre</orgName>
+               </org>
+               <org xml:id="Tauchnitz" type="publisher">
+                  <orgName>Tauchnitz</orgName>
+               </org>
+               <org xml:id="Bancroft">
+                  <orgName>Bancroft School</orgName>
+               </org>
+               <org xml:id="StMarysHosptial">
+                  <orgName>St Mary's Hospital</orgName>
+               </org>
+               <org xml:id="RoyalCollegeMusic">
+                  <orgName>The Royal College of Music</orgName>
+               </org>
+               <org xml:id="SpasmodicPoets">
+                  <orgName>Spasmodic Poets</orgName>
+               </org>
+               <org xml:id="PRB">
+                  <orgName>Pre-Raphaelite Brotherhood</orgName>
+               </org>
+               <org xml:id="RoyalAcademy">
+                  <orgName>Royal Academy</orgName>
+               </org>
+               <org xml:id="CoventGarden">
+                  <orgName>Covent Garden</orgName>
+               </org>
+               <org xml:id="Macmillan">
+                  <orgName>Macmillan</orgName>
+               </org>
+               <org xml:id="HurstBlackett" type="publisher">
+                  <orgName>Hurst and Blackett</orgName>
+               </org>
+               <org xml:id="ChapmanHall" type="publisher">
+                  <orgName>Chapman and Hall</orgName>
+               </org>
+               <org xml:id="Harpers" type="publisher">
+                  <orgName>Harper Brothers</orgName>
+               </org>
+               <org xml:id="Hachette" type="publisher">
+                  <orgName>Hachette</orgName>
+               </org>
+               <org xml:id="SmithElder" type="publisher">
+                  <orgName>Smith Elder &amp; Co</orgName>
+               </org>
+               <org xml:id="TicknorFields" type="publisher">
+                  <orgName>Ticknor and Fields</orgName>
+               </org>
+            </listOrg>
+         </div>
+         <div type="repositories">
+            <!-- This list is for the repositories holding Craik's correspondence and diares -->
+            <bibl>
+               <msIdentifier xml:id="UCLA">
+                  <country>USA</country>
+                  <region>California</region>
+                  <settlement>Los Angeles</settlement>
+                  <repository>Charles E Young Research Library, University of California at Los
+                     Angeles</repository>
+                  <collection>Mulock Family Papers</collection>
+                  <idno>846</idno>
+               </msIdentifier>
+               <msIdentifier xml:id="Princeton">
+                  <country>USA</country>
+                  <region>New Jersey</region>
+                  <settlement>Princeton</settlement>
+                  <repository>Manuscripts Division, Department of Rare Books and Special
+                     Collections, Princeton University Library</repository>
+                  <collection>M. L. Parrish Collection of Victorian Novelists</collection>
+                  <idno>C0171</idno>
+               </msIdentifier>
+            </bibl>
+         </div>
+         <div type="HistoricalPlaces">
+            <head>Placeography</head>
+            <listPlace>
+               <place xml:id="CornerHouse">
+                  <placeName>the Corner House</placeName>
+                  <note>Dinah Craik's most important residence, where she lived from 1869 until her
+                     death. Built by the architecht <persName ref="#RichardNormanShaw">Richard
+                        Norman Shaw</persName></note>
+               </place>
+               <place xml:id="ChilchesterLodge"/>
+               <place xml:id="MoorPark"/>
+               <place xml:id="Detmore">
+                  <placeName>Detmore</placeName>
+                  <note>The residence of the <orgName>Dobell family</orgName>, now a bed and
+                     breakfast of the same name. See http://www.detmorehouse.com/.</note>
+               </place>
+               <place xml:id="DouneTerrace">
+                  <placeName>Doune Terrace</placeName>
+                  <note resp="#BourrierKaren">1 Doune Terrace was the address of the publisher
+                     Robert Chambers in Edinburgh's Georgian New Town. Dinah stayed with Robert
+                     Chambers and his family at this address on more than one occasion.</note>
+               </place>
+               <place xml:id="StokeUponTrent">
+                  <placeName>Stoke-upon-Trent</placeName>
+               </place>
+               <place xml:id="Wildwood">
+                  <placeName>Wildwood</placeName>
+                  <note>Dinah's beloved cottage on <placeName ref="#HampsteadHeath">Hampstead
+                        Heath</placeName>.</note>
+               </place>
+               <place xml:id="HampsteadHeath">
+                  <placeName>Hampstead Heath</placeName>
+                  <note>Dinah had two residences on Hampstead Heath, <placeName>Upper Terrace
+                        Cottage</placeName> and most importantly, <placeName ref="#Wildwood">Wildwood</placeName>.
+                     In the nineteenth century Hampstead Heath was much further out than it is
+                     today.</note>
+               </place>
+               <place xml:id="London">
+                  <placeName>London</placeName>
+                  <note resp="#BourrierKaren">Dinah Craik and her family moved to London when she
+                     was 14, in 1840?. With the exception of a short residence in <placeName ref="#WemyssBay">Wemyss Bay</placeName>, Craik
+                     lived in London and its suburbs for the rest of her life.</note>
+               </place>
+               <place xml:id="UpperTerraceCottage">
+                  <placeName>Upper Terrace Cottage</placeName>
+                  <note>This was Dinah's brief residence in <placeName ref="#HampsteadHeath"
+                        >Hampstead Heath</placeName>, where she and Ben lived before moving to
+                        <placeName ref="#Wildwood">Wildwood Cottage</placeName>.</note>
+               </place>
+               <place xml:id="NewYork">
+                  <placeName>New York City</placeName>
+               </place>
+               <place xml:id="Shortlands">
+                  <placeName>Shortlands</placeName>
+               </place>
+               <place xml:id="Kent">
+                  <placeName>Kent</placeName>
+               </place>
+               <place xml:id="Kilbourne">
+                  <placeName>Kilbourne</placeName>
+               </place>
+               <place xml:id="Lynover">
+                  <placeName>Lynover Cottage</placeName>
+                  <note>Dinah Craik lived in Lynover cottage with two other young women, possibly
+                     Laura Herford and Minna Lovell.</note>
+               </place>
+               <place xml:id="WemyssBay">
+                  <placeName>Wemyss Bay</placeName>
+                  <note>Dinah fled to Wemyss Bay after the death of her brother Ben in 1863. It was
+                     here that she rekindled her romance with <persName ref="CraikGeorge">George
+                        Craik</persName>.</note>
+               </place>
+               <place xml:id="Arran">
+                  <placeName>Arran</placeName>
+               </place>
+               <place xml:id="Bath">
+                  <placeName>Bath</placeName>
+                  <note>Dinah's Mulock Aunts lived in Bath, and she was married from one of their
+                     houses in Bath. She often went to visit her Mulock aunts in the Spring,
+                     bringing her daughter Dorothy on more than one occasion.</note>
+               </place>
+               <place xml:id="Glasgow">
+                  <placeName>Glasgow</placeName>
+               </place>
+               <place xml:id="Cheltenham">
+                  <placeName>Cheltenham</placeName>
+               </place>
+               <place xml:id="Salton">
+                  <placeName>Salton</placeName>
+               </place>
+               <place xml:id="AlderleyEdge">
+                  <placeName>Alderley Edge</placeName>
+                  <note>A village in Cheshire, England</note>
+               </place>
+               <place xml:id="Tewkesbury">
+                  <placeName>Tewkesbury</placeName>
+                  <note>A medieval market town in in Gloucestershire, England, and the basis for
+                     Norton Bury in <title ref="#JohnHalifax">John Halifax, Gentleman</title></note>
+               </place>
+               <place xml:id="Gloucester">
+                  <placeName>Gloucester</placeName>
+               </place>
+               <place xml:id="Camberley">
+                  <placeName>Camberley</placeName>
+                  <note>A town in Surrey, England.</note>
+               </place>
+               <place xml:id="Dover">
+                  <placeName>Dover</placeName>
+                  <note>A town and major port in Kent, England. Dinah Craik owned a cottage in
+                     Dover.</note>
+               </place>
+               <place xml:id="HerbertTerrace">
+                  <placeName>9 Herbert Terrace.</placeName>
+                  <note>The address of Craik's cottage in Dover.</note>
+               </place>
+               <place xml:id="Chatham">
+                  <placeName>Chatham</placeName>
+                  <note>A town in Kent, England.</note>
+               </place>
+               <place xml:id="KingsCross">
+                  <placeName>King's Cross</placeName>
+                  <note>A railway station in London.</note>
+               </place>
+               <place xml:id="BedfordPlace">
+                  <placeName>Bedford Place</placeName>
+                  <note>The location of the the Macmillan Publishing Firm in London, where <persName
+                        ref="#CraikGeorge">George Craik</persName> worked.</note>
+               </place>
+               <place xml:id="Eglinton">
+                  <placeName>Eglinton</placeName>
+                  <note>A village in Londonderry, Northern Ireland.</note>
+               </place>
+               <place xml:id="Tore">
+                  <placeName>Tore</placeName>
+                  <note>The Pilkington family seat in County <placeName ref="#Westmeath"
+                        >Westmeath</placeName>, Ireland.</note>
+               </place>
+               <place xml:id="Tyrrellspass">
+                  <placeName>Tyrrellspass</placeName>
+                  <note>Tyrrellspass is a village in County <placeName ref="#Westmeath"
+                        >Westmeath</placeName>, Ireland</note>
+               </place>
+               <place xml:id="Westmeath">
+                  <placeName>Westmeath</placeName>
+                  <note>A county in Ireland.</note>
+               </place>
+               <place xml:id="Brompton">
+                  <placeName>Brompton</placeName>
+                  <note resp="#FukushimaKailey">Brompton is a district of West-central <placeName ref="#London"
+                        >London</placeName> located near the South end of the Kensington
+                     Gardens.</note>
+               </place>
+               <place xml:id="CamdenStreet">
+                  <placeName>18 Camden Street North</placeName>
+                  <note resp="#FukushimaKailey"><persName ref="#DMC">Dinah Craik</persName> moved to 18
+                     Camden Street North, <placeName ref="#CamdenTown">Camden Town</placeName> in
+                        <date when="1851-11">November 1851</date>.</note>
+               </place>
+               <place xml:id="CamdenTown">
+                  <placeName>Camden Town</placeName>
+                  <note resp="#FukushimaKailey">Camden Town is a district of Northwest <placeName ref="#London"
+                        >London</placeName>.</note>
+               </place>
+               <place xml:id="ClarevilleCottage">
+                  <placeName>Clareville Cottage</placeName>
+                  <note resp="#FukushimaKailey">Clareville Cottage was the dwelling of Edward
+                     Chapman's family. It was located in <placeName ref="#Brompton"
+                        >Brompton</placeName>, <placeName ref="#London">London</placeName>.</note>
+               </place>
+               <place xml:id="Dorsetshire">
+                  <placeName>Dorsetshire</placeName>
+               </place>
+               <place xml:id="Kilburn">
+                  <placeName>Kilburn</placeName>
+                  <note resp="#FukushimaKailey">Kilburn is a district of Northwest <placeName ref="#London"
+                        >London</placeName>.</note>
+               </place>
+               <place xml:id="Leipzig">
+                  <placeName>Leipzig</placeName>
+                  <note resp="#FukushimaKailey">Leipzig was a city  in the <placeName ref="#Prussia"
+                        >Kingdom of Prussia</placeName> and is now part of modern Germany. Leipzig
+                     was the location of the Prussian  publishing house, <orgName ref="#Tauchnitz"
+                        >Tauchnitz</orgName>. </note>
+               </place>
+               <place xml:id="Paris">
+                  <placeName>Paris</placeName>
+                  <note resp="#FukushimaKailey">Paris is the capital city of France.</note>
+               </place>
+               <place xml:id="Prussia">
+                  <placeName from="1701" to="1871">Kingdom of Prussia</placeName>
+                  <placeName from="1871" to="1947">Prussia</placeName>
+               </place>
+               <!--these stub entries for places need to be further defined-->
+               <place>
+                  <placeName>Anbrion</placeName>
+               </place>
+               <place>
+                  <placeName>Lurne</placeName>
+               </place>
+               <place>
+                  <placeName>Carlisle</placeName>
+               </place>
+               <place>
+                  <placeName>Donegal</placeName>
+                  <note>: a town in County Donegal, Ireland. </note>
+               </place>
+               <place>
+                  <placeName>Cushendall</placeName>
+                  <note>: a village in County Antrim, Northern Ireland</note>
+               </place>
+               <place>
+                  <placeName>Curran</placeName>
+                  <note>: a small village in County Londonderry, Northern Ireland</note>
+               </place>
+               <place>
+                  <placeName>Corin Manor</placeName>
+                  <note>: Sir Noel stays there in September</note>
+               </place>
+               <place>
+                  <placeName>Kilnagarna</placeName>
+                  <note>: place in Ireland where the Mulock’s have a residence</note>
+               </place>
+               <place>
+                  <placeName>Athlone</placeName>
+                  <note>: village in Ireland</note>
+               </place>
+               <place>
+                  <placeName>Lough Eske Castle</placeName>
+                  <note>: located in County Donegal in the northwest of Ireland</note>
+               </place>
+               <place xml:id="Dublin">
+                  <placeName>Dublin</placeName>
+                  <note>: capital of Ireland</note>
+               </place>
+               <place>
+                  <placeName>Mulingham</placeName>
+                  <note>: a village close to Castletown?</note>
+               </place>
+               <place>
+                  <placeName>Castletown</placeName>
+                  <note>: a village on the north coast of the Highland in Scotland</note>
+               </place>
+               <place>
+                  <placeName>Shamrock Lodges Athlone</placeName>
+                  <note>: located in Athlone, County Westmeath, Ireland</note>
+               </place>
+               <place>
+                  <placeName>Slieve League</placeName>
+                  <note>: a mountain located on the coast of County Donegal, Ireland</note>
+               </place>
+               <place>
+                  <placeName>Llanfairfechan</placeName>
+                  <note>A town in the Conwy County Borough, Wales</note>
+               </place>
+               <place>
+                  <placeName>Loch Fyne</placeName>
+                  <note>Sea loch located on the west coast of Argyll and Bute, Scotland</note>
+               </place>
+               <place>
+                  <placeName>Derry</placeName>
+                  <note>A city in Northern Ireland</note>
+               </place>
+               <place xml:id="York">
+                  <placeName>York</placeName>
+                  <note>A city in North Yorkshire, England. The Flying Scotsman, the train from
+                     King's Cross Station, London, to Edinburgh Waverley, stopped there for lunch
+                     from 1862 to 1888.</note>
+               </place>
+               <place xml:id="CrystalPalace">
+                  <placeName>The Crystal Palace</placeName>
+               </place>
+               <place xml:id="Rome">
+                  <placeName>Rome</placeName>
+               </place>
+               <place xml:id="Italy">
+                  <placeName>Italy</placeName>
+               </place>
+               <place xml:id="Morvern">
+                  <placeName>Morvern</placeName>
+                  <note>In Scotland</note>
+               </place>
+               <place xml:id="Dalmally">
+                  <placeName>Dalmally</placeName>
+                  <note>In Scotland</note>
+               </place>
+               <place xml:id="Greenock">
+                  <placeName>Greenock</placeName>
+               </place>
+               <place xml:id="Winchester">
+                  <placeName>Winchester</placeName>
+                  <note>A cathedral town in Hampshire, UK.</note>
+               </place>
+               <place xml:id="Hammersmith">
+                  <placeName>Hammersmith</placeName>
+                  <note>A district in West London.</note>
+               </place>
+            </listPlace>
+         </div>
+         <div type="events">
+            <listEvent>
+               <event xml:id="EngCivilWar" type="war" from="1642" to="1651">
+                  <label>English Civil War</label>
+               </event>
+            </listEvent>
+            <listEvent>
+               <event xml:id="CivilWar" type="war" from="1861" to="1865">
+                  <label>American Civil War</label>
+               </event>
+            </listEvent>
+         </div>
+         <div type="periodicals">
+            <!-- This list is for periodicals and magazines -->
+            <listBibl>
+               <bibl xml:id="Athaneum">
+                  <title>Athaneum</title>
+               </bibl>
+               <bibl xml:id="ChambersMagazine"><title>Chamber's Edinburgh Magazine</title></bibl>
+               <bibl xml:id="HarpersMagazine"><title>Harper's Monthly Magazine</title></bibl>
+               <bibl xml:id="GoodWords"><title>Good Words</title></bibl>
+               <bibl xml:id="MacmillansMagazine"><title>Macmillan's Magazine</title></bibl>
+               <bibl xml:id="Cornhill"><title>Cornhill</title></bibl>
+               <bibl xml:id="TempleBar"><title>Temple Bar</title></bibl>
+               <bibl xml:id="Athenaeum"><title>Athenaeum</title></bibl>
+               <bibl xml:id="Graphic"><title>The Graphic</title></bibl>
+               <bibl xml:id="Punch"><title>Punch</title></bibl>
+               <bibl xml:id="Charm"><title>The Charm</title>
+                  <note>A children's periodical published by <orgName ref="#AddeyCo">Addey
+                     &amp; Co</orgName></note></bibl>
+               <bibl xml:id="HowittsJournal"><title>Howitt's Journal</title>
+                  <note>A weekly periodical launched by <persName ref="#HowittWilliam">William
+                     Howitt</persName> in <date when="1847">1847</date>. The journal went
+                     bankrupt in <date when="1848">1848</date>. Howitt's Journal was the
+                     first to publish works by <persName ref="#GaskellElizabeth">Elizabeth
+                        Gaskell</persName>.</note></bibl>
+               <bibl xml:id="ManchesterExaminerTimes"><title>The Manchester Examiner
+                  &amp; Times</title></bibl>
+            </listBibl>
+         </div>
+         <div type="booksbyothers">
+            <listBibl>
+               <!--This list for literary works not by Craik.-->
+               <bibl xml:id="EnochArden"><title>Enoch Arden</title><author>Tennyson</author><note>A
+                     narrative poem by Lord Alfred Tennyson.</note></bibl>
+               <bibl xml:id="Householdgods">
+                  <title>Household Gods</title>
+                  <author/>
+                  <note>A play</note>
+               </bibl>
+               <bibl xml:id="AuroraLeigh">
+                  <title>Aurora Leigh</title>
+                  <author/>
+                  <note resp="BourrierKaren"><title>Aurora Leigh</title> is an epic poem telling the story of a young woman writer by <persName
+                        ref="#BrowningElizabethBarrett">Elizabeth Barrett Browning</persName></note>
+               </bibl>
+            </listBibl>
+            <bibl xml:id="MoorlandCottage">
+               <author>
+                  <persName ref="GaskellElizabeth">Elizabeth Cleghorn Gaskell</persName>
+               </author>
+               <title level="m">The Moorland Cottage</title>
+               <pubPlace>London</pubPlace>
+               <publisher corresp="ChapmanHall">Chapman and Hall</publisher>
+               <date when="1850"/>
+            </bibl>
+         </div>
+         <div type="booksbyCraik">
+            <!-- This list is for works by Craik -->
+            <listBibl>
+               <bibl xml:id="MissTommy"><title>Miss Tommy</title></bibl>
+               <bibl xml:id="Ogilvies">
+                  <author>
+                     <persName> Dinah Mulock Craik </persName>
+                  </author>
+                  <title level="m">The Ogilvies</title>
+                  <pubPlace>London</pubPlace>
+                  <publisher>Chapman and Hall</publisher>
+                  <date when="1849"/>
+               </bibl>
+               <bibl xml:id="Olive">
+                  <author>
+                     <persName ref="#DMC"> Dinah Mulock Craik </persName>
+                  </author>
+                  <title>Olive</title>
+                  <pubPlace>London</pubPlace>
+                  <publisher>Chapman and Hall</publisher>
+                  <date when="1850"/>
+               </bibl>
+               <bibl xml:id="HeadOfTheFamily">
+                  <author>
+                     <persName> Dinah Mulock Craik </persName>
+                  </author>
+                  <title>The Head of the Family</title>
+                  <pubPlace>London</pubPlace>
+                  <publisher>Chapman and Hall</publisher>
+                  <date when="1852"/>
+               </bibl>
+               <bibl xml:id="AgathasHusband">
+                  <author>
+                     <persName ref="#DMC"> Dinah Mulock Craik </persName>
+                  </author>
+                  <title>Agatha's Husband</title>
+                  <pubPlace>London</pubPlace>
+                  <publisher corresp="ChapmanHall">Chapman and Hall</publisher>
+                  <date when="1853"/>
+               </bibl>
+               <bibl xml:id="JohnHalifaxGentleman">
+                  <author>
+                     <persName ref="#DMC"> Dinah Mulock Craik </persName>
+                  </author>
+                  <title level="m">John Halifax, Gentleman</title>
+                  <pubPlace>London</pubPlace>
+                  <publisher corresp="#HurstBlackett">Hurst and Blackett</publisher>
+                  <date when="1856"/>
+               </bibl>
+               <bibl xml:id="LifeForLife">
+                  <author>
+                     <persName ref="#DMC">Dinah Mulock Craik</persName>
+                  </author>
+                  <title>A Life for a Life</title>
+                  <pubPlace>London</pubPlace>
+                  <publisher corresp="#HurstBlackett">Hurst and Blackett</publisher>
+                  <date when="1859"/>
+               </bibl>
+               <bibl xml:id="MistressAndMaid">
+                  <author>
+                     <persName ref="#DMC">Dinah Mulock Craik</persName>
+                  </author>
+                  <title>Mistress and Maid</title>
+                  <pubPlace>London</pubPlace>
+                  <publisher corresp="#HurstBlackett">Hurst and Blackett?</publisher>
+                  <date when="1862"/>
+               </bibl>
+               <bibl xml:id="ChristiansMistake">
+                  <author>
+                     <persName ref="#DMC"> Dinah Mulock Craik </persName>
+                  </author>
+                  <pubPlace>London</pubPlace>
+                  <publisher>Hurst and Blackett?</publisher>
+                  <date when="1865"/>
+               </bibl>
+               <bibl xml:id="NobleLife">
+                  <author>
+                     <persName ref="#DMC"> Dinah Mulock Craik </persName>
+                  </author>
+                  <title level="m">A Noble Life</title>
+                  <pubPlace>London</pubPlace>
+                  <publisher/>
+                  <date when="1866"/>
+               </bibl>
+               <bibl xml:id="TwoMarriages">
+                  <author>
+                     <persName ref="#DMC"> Dinah Mulock Craik </persName>
+                  </author>
+                  <title level="m">Two Marriages</title>
+                  <pubPlace>London</pubPlace>
+                  <publisher/>
+                  <date when="1867"/>
+               </bibl>
+               <bibl xml:id="WomansKingdom">
+                  <author>
+                     <persName ref="#DMC"> Dinah Mulock Craik </persName>
+                  </author>
+                  <title level="m">The Woman's Kingdom</title>
+                  <pubPlace>London</pubPlace>
+                  <publisher/>
+                  <date when="1868"/>
+               </bibl>
+               <bibl n="BraveLady">
+                  <author>
+                     <persName ref="#DMC"> Dinah Mulock Craik </persName>
+                  </author>
+                  <title level="m">A Brave Lady</title>
+                  <pubPlace>London</pubPlace>
+                  <publisher/>
+                  <date when="1870"/>
+               </bibl>
+               <bibl xml:id="Hannah">
+                  <author>
+                     <persName ref="#DMC"> Dinah Mulock Craik </persName>
+                  </author>
+                  <title level="m">Hannah</title>
+                  <pubPlace>London</pubPlace>
+                  <publisher/>
+                  <date when="1871"/>
+               </bibl>
+               <bibl xml:id="YoungMrsJardine">
+                  <author>
+                     <persName ref="#DMC"> Dinah Mulock Craik </persName>
+                  </author>
+                  <title level="m">Young Mrs. Jardine</title>
+                  <pubPlace>London</pubPlace>
+                  <publisher/>
+                  <date when="1879"/>
+               </bibl>
+               <bibl xml:id="KingArthur">
+                  <author>
+                     <persName ref="#DMC"> Dinah Mulock Craik </persName>
+                  </author>
+                  <title level="m">King Arthur: Not a Love Story</title>
+                  <pubPlace>London</pubPlace>
+                  <publisher/>
+                  <date when="1886"/>
+               </bibl>
+               <bibl xml:id="AliceLearmont">
+                  <author>
+                     <persName ref="DMC">Dinah Mulock Craik</persName>
+                  </author>
+                  <title level="m">Alice Learmont: a Fairy Tale</title>
+                  <pubPlace>London</pubPlace>
+                  <publisher corresp="ChapmanHall">Chapman and Hall</publisher>
+                  <date when="1852"/>
+               </bibl>
+               <bibl xml:id="Avillion">
+                  <author>
+                     <persName ref="DMC">Dinah Mulock Craik </persName>
+                  </author>
+                  <title level="m">Avillion and Other Tales</title>
+                  <pubPlace>London</pubPlace>
+                  <publisher corresp="SmithElder">Smith Elder &amp; Co</publisher>
+                  <date when="1853"/>
+               </bibl>
+               <bibl xml:id="Hero">
+                  <author>
+                     <persName ref="DMC">Dinah Mulock Craik </persName>
+                  </author>
+                  <title level="m">A Hero: Philip's Book</title>
+                  <pubPlace>London</pubPlace>
+                  <publisher corresp="#AddeyCo">Addey &amp; Co</publisher>
+                  <date when="1853"/>
+               </bibl>
+            </listBibl>
+         </div>
+      </body>
+   </text>
+</TEI>
