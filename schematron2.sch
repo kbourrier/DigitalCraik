@@ -25,8 +25,8 @@
         </rule>
     </pattern>
 
-    <let name="si" value="doc('//github.com/kbourrier/DigitalCraik/blob/pages/siteindex.xml')//@xml:id"/>
-    <let name="siFile" value="doc('//github.com/kbourrier/DigitalCraik/blob/pages/siteindex.xml')"/>
+    <let name="si" value="doc('https://github.com/kbourrier/DigitalCraik/blob/pages/siteindex.xml')//@xml:id"/>
+    <let name="siFile" value="doc('https://github.com/kbourrier/DigitalCraik/blob/pages/siteindex.xml')"/>
     
     
 
