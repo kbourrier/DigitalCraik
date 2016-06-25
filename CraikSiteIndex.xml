@@ -4108,7 +4108,7 @@
                <person xml:id="MissCox" sex="2">
                   <!-- Dorothy28 UCLA -->
                </person>
-               <person xml:id="MrsSkinner" sex="2">
+               <person xml:id="MrSkinner" sex="1">
                   <!-- Dorothy28 UCLA -->
                </person>
                <person xml:id="AtkinsonFred" sex="1">
@@ -4124,6 +4124,9 @@
                   <!-- Dorothy29 UCLA -->
                </person>
                <person xml:id="Janie" sex="2">
+                  <!-- Dorothy29 UCLA -->
+               </person>
+               <person xml:id="Marjery" sex="2">
                   <!-- Dorothy29 UCLA -->
                </person>
                <person xml:id="Idol">
