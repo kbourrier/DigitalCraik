@@ -4310,6 +4310,9 @@
                <org xml:id="HolmanHunts" type="family">
                   <orgName>The Holman-Hunts</orgName>
                </org>
+               <org xml:id="Allingham" type="family">
+                  <orgName>The Allinghams</orgName>
+               </org>
 
                <!-- Other types of organizations -->
                <org xml:id="StationersCompany" type="guild">
