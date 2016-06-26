@@ -3898,9 +3898,6 @@
                <person xml:id="Emmie" sex="2">
                   <!-- Dorothy09, 19, 28 UCLA -->
                </person>
-               <person xml:id="Aberforth" sex="1">
-                  <!-- Dorothy09 UCLA -->
-               </person>
                <person xml:id="MrsDobbs" sex="2">
                   <!-- Dorothy09 UCLA -->
                </person>
@@ -5498,6 +5495,9 @@
                   <!-- Dorothy07 UCLA -->
                </place>
                <place xml:id="CausewayHotel">
+                  <!-- Dorothy09 UCLA -->
+               </place>
+               <place xml:id="Aberforth">
                   <!-- Dorothy09 UCLA -->
                </place>
                <place xml:id="CorrieManse">
