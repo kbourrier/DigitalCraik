@@ -4041,6 +4041,9 @@
                <person xml:id="MrAnderson" sex="1">
                   <!-- Dorothy25 UCLA -->
                </person>
+               <person xml:id="MrsHarris" sex="2">
+                  <!-- Dorothy25 UCLA -->
+               </person>
                <person xml:id="ColvilHelen" sex="2">
                   <!-- Dorothy25, 27 UCLA -->
                </person>
