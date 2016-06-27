@@ -3557,6 +3557,7 @@
                      character in Dinah's <date when="1849">1849</date> novel, <title
                         corresp="#Ogilvies">The Ogilvies.</title></note>
                </person>
+               <person xml:id="KingLear" sex="1"><note type="bio" resp="#FukushimaKailey">King Lear is the titular character in a Shakespearean play.</note></person>
             </listPerson>
          </div>
 
