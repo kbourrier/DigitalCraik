@@ -4061,12 +4061,6 @@
                <person xml:id="AingerAlfred" sex="1">
                   <!-- Dorothy26 UCLA -->
                </person>
-               <person xml:id="Lawrence" sex="1">
-                  <!-- Dorothy26 UCLA -->
-               </person>
-               <person xml:id="DerwentWalter" sex="2">
-                  <!-- Dorothy26 UCLA -->
-               </person>
                <person xml:id="BrownRichard" sex="1">
                   <!-- Dorothy27 UCLA -->
                </person>
@@ -4443,6 +4437,7 @@
                <org xml:id="Anderson" type="family"/>
                <org xml:id="Marling" type="family"/>
                <org xml:id="Bewley" type="family"/>
+               <org xml:id="Lawrence" type="family"/>
 
                <!-- Other types of organizations -->
                <org xml:id="Bancroft">
@@ -5605,6 +5600,9 @@
                   <!-- Dorothy26 UCLA -->
                </place>
                <place xml:id="HexhamHydro">
+                  <!-- Dorothy26 UCLA -->
+               </place>
+                  <place xml:id="DerwentWater">
                   <!-- Dorothy26 UCLA -->
                </place>
                <place xml:id="Holyhead">
