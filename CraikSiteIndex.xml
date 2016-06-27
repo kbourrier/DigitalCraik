@@ -5642,6 +5642,9 @@
                <place xml:id="WinchesterCollegeChapel">
                   <!-- Dorothy32 UCLA -->
                </place>
+               <place xml:id="Deanery">
+                  <!-- Dorothy32 UCLA -->
+               </place>
                <place xml:id="WinchesterDeanery"/>
                <place xml:id="HubertTerrace"/>
                <place xml:id="DoverPriory"/>
