@@ -10,7 +10,7 @@
          </titleStmt>
          <publicationStmt>
             <authority>University of Calgary, Calgary, AB. May 2016.</authority>
-            <availability>S
+            <availability>
                <licence target="https://creativecommons.org/licenses/by-nc-sa/4.0/"><p>The Creative
                      Commons Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA
                      4.0) License applies to this document.</p>
@@ -4329,7 +4329,7 @@
                </org>
                <org xml:id="MulockAunts" type="family">
                   <orgName>The Mulock Aunts</orgName>
-                  <note resp="#FukushimaKailey">Dinah's paternal aunts Jane, Emily, Eliza, Frances, Ann, and Eliza Mulock lived at <placename ref="#Bath"></placename>Bath.</placename></note>
+                  <note resp="#FukushimaKailey">Dinah's paternal aunts Jane, Emily, Eliza, Frances, Ann, and Eliza Mulock lived at <placeName ref="#Bath">Bath.</placeName></note>
                </org>
 
                <!-- Other types of organizations -->
