@@ -10,7 +10,7 @@
          </titleStmt>
          <publicationStmt>
             <authority>University of Calgary, Calgary, AB. May 2016.</authority>
-            <availability>
+            <availability>S
                <licence target="https://creativecommons.org/licenses/by-nc-sa/4.0/"><p>The Creative
                      Commons Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA
                      4.0) License applies to this document.</p>
@@ -401,17 +401,6 @@
                   <death when="1866"/>
                   <nationality>English</nationality>
                   <note type="bio" resp="#ParkerJanice">Mary Reade was Dinah's maternal aunt.</note>
-               </person>
-               <person xml:id="ReadeElizabeth" sex="2">
-                  <persName><surname>Reade</surname>
-                     <forename>Elizabeth</forename>
-                     <addName>Lizzie</addName></persName>
-                  <birth/>
-                  <death/>
-                  <nationality>English</nationality>
-                  <note type="bio" resp="#ParkerJanice">Elizabeth Reade was the daughter of
-                        <persName ref="#ReadeMary">Mary Reade</persName> and <persName
-                        ref="#ReadeWilliam">William Reade.</persName> She was Dinah's cousin.</note>
                </person>
                <person xml:id="HallSamuelCarter" sex="1">
                   <persName><surname>Hall</surname>
@@ -2519,7 +2508,8 @@
                   <!-- Clara is mentioned in PU45 in the Princeton Parrish Collection. KB: I'm wondering if she's actually a servant if she's mentioned by first name here.-->
                </person>
                <person xml:id="MissCoates" sex="2">
-                  <persName><surname>Coates</surname></persName>
+                  <persName><surname>Coates</surname>
+                  <forename>Emily</forename></persName>
                   <note type="bio" resp="#FukushimaKailey">Miss Coates was a cousin of <persName
                         ref="#DobellSydney">Sydney Dobell</persName>'s. She lived at <placeName
                         ref="#UpperTerraceLodge">Upper Terrace Lodge</placeName> with her friend
@@ -3091,7 +3081,7 @@
                   <note type="bio" resp="#ParkerJanice">William Reade was married to Dinah's
                      maternal aunt <persName ref="#ReadeMary">Mary Reade</persName>.</note>
                </person>
-               <person xml:id="ReadeElizabath" sex="2">
+               <person xml:id="ReadeElizabeth" sex="2">
                   <persName>
                      <surname type="married">Lee</surname>
                      <surname type="maiden">Reade</surname>
@@ -3102,8 +3092,9 @@
                   <death when="1904-10-13"/>
                   <nationality>English</nationality>
                   <note type="bio" resp="#ParkerJanice">Elizabeth was Dinah's cousin on the maternal
-                     side and the daughter of <persName ref="#ReadeMary">Aunt Mary
-                     Reade</persName>.</note>
+                     side. Her parents were <persName ref="#ReadeMary">Mary
+                    (Mellard) Reade</persName> and <persName
+                        ref="#ReadeWilliam">William Reade.</persName></note>
                </person>
                <person xml:id="MulockCharlotte" sex="2">
                   <persName><surname type="married">Wright</surname>
@@ -4187,6 +4178,29 @@
                <person xml:id="Maxwell" sex="1">
                   <!--<note type="bio" resp="#FukushimaKailey">Mentioned in PU89.</note>-->
                </person>
+               <!--KF: The Following ## Stub Entries are all from UCLADM25 --> 
+               <person xml:id="MrsAllen" sex="2"/>
+               <person xml:id="MissHorne" sex="2"/>
+               <person xml:id="MacphersonRobert" sex="1"/>
+               <person xml:id="DomPedroII" sex="1"/>
+               <person xml:id="MrSankey" sex="1"/>
+               <person xml:id="ReadeThomasMellard" sex="1"/>
+               <person xml:id="LeeWilliam" sex="1"/>
+               <person xml:id="LeeMuriel" sex="2"/>
+               <person xml:id="MottAlbert" sex="1"/>
+               <person xml:id="MottClara" sex="2"/>
+               <person xml:id="MrsMott" sex="2"/>
+               <person xml:id="ParkerEmma" sex="2"/>
+               <person xml:id="BestWilliamThomas" sex="1"/>
+               <person xml:id="DowieAnnie" sex="2"/>
+               <person xml:id="TaylorAlfred" sex="1"/>
+               <person xml:id="MrsAlfred" sex="2"/>
+               <person xml:id="Greg" sex="1"/>
+               <person xml:id="Sophia" sex="2"/>
+               <person xml:id="LovellWilliam" sex="1"/>
+               <person xml:id="MrsLovellWilliam" sex="2"/> <!--KF: Change this xml id when we find out her given name-->
+               <person xml:id="MrsStewartAndrew" sex="2"/> <!--KF: Change this xml id when we find out her given name-->
+               <person xml:id="MrWarren" sex="1"/>
             </listPerson>
          </div>
 
@@ -4309,6 +4323,13 @@
                </org>
                <org xml:id="Allingham" type="family">
                   <orgName>The Allinghams</orgName>
+               </org>
+               <org xml:id="Reade" type="family">
+                  <orgName>The Reades</orgName>
+               </org>
+               <org xml:id="MulockAunts" type="family">
+                  <orgName>The Mulock Aunts</orgName>
+                  <note resp="#FukushimaKailey">Dinah's paternal aunts Jane, Emily, Eliza, Frances, Ann, and Eliza Mulock lived at <placename ref="#Bath"></placename>Bath.</placename></note>
                </org>
 
                <!-- Other types of organizations -->
@@ -5654,6 +5675,9 @@
                <place xml:id="DoverPriory"/>
                <place xml:id="Alderney"/>
                <place xml:id="ChannelIslands"/>
+                <!--KF: The following stub entries are from UCLADM25-->
+                <place xml:id="Longfield"/>
+                <place xml:id="Aberystwyth"/>
             </listPlace>
          </div>
 
