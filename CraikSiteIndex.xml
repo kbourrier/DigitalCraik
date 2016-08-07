@@ -4186,7 +4186,12 @@
                <person xml:id="Maxwell" sex="1">
                   <!--<note type="bio" resp="#FukushimaKailey">Mentioned in PU89.</note>-->
                </person>
-               <!--KF: The Following ## Stub Entries are all from UCLADM25 --> 
+               <person xml:id="MrsBrown" sex="2">
+               	<persName><surname type="married">Brown</surname></persName>
+               	<note type="bio" resp="#FukushimaKailey">Mrs. Brown was an acquaintance of the Mulock family. She lived in <placeName ref="#London">London.</placeName> It seems that she helped to care for <persName>Thomas Mulock Jr.</persName>'s horse, <persName>Nell</persName>, while he was at away at sea.</note>
+               	<!-- KF: Mentioned in UCLATM01 -->
+               </person>
+               <!--KF: The Following 22 Stub Entries are all from UCLADM25 --> 
                <person xml:id="MrsAllen" sex="2"/>
                <person xml:id="MissHorne" sex="2"/>
                <person xml:id="MacphersonRobert" sex="1"/>
