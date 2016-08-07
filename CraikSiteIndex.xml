@@ -203,6 +203,10 @@
                   <note type="bio">Songbird was a horse of Dinah Craik's at the <placeName
                         ref="#CornerHouse">Corner House.</placeName></note>
                </person>
+               <person xml:id="Nell">
+                  <persName>Nell</persName>
+                  <note type="bio" resp="#FukushimaKailey">Nell was Thomas Mulock Jr.'s beloved horse.</note>
+               </person>
             </listPerson>
          </div>
 
@@ -5420,6 +5424,10 @@
                	<place xml:id="OrkneyIsles">
                	<placeName>Orkney Isles</placeName>
                	<note resp="#FukushimaKailey">Orkney is an archipelago off the northeastern coast of <placeName ref="#Scotland">Scotland.</placeName></note>
+               	</place>
+               	<place xml:id="Ramsgate">
+               	<placeName>Ramsgate</placeName>
+               	<note resp="#FukushimaKailey">Ramsgate is a seaside town in east <placeName>Kent</placeName>, <placeName>England.</placeName></note>
                	</place>
             </listPlace>
          </div>
