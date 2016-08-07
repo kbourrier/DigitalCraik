@@ -3457,6 +3457,10 @@
                         rend="italics">The Picture of Dorian Gray</hi> (1890) and <hi rend="italics"
                         >The Importance of Being Earnest</hi> (1895).<lb/> ODNB.</note>
                </person>
+               <person xml:id="Metcalf" sex="1">
+               	<persName><surname>Metcalf</surname></persName>
+               	<note type="bio" resp="#FukushimaKailey">Mr. Metcalf was a shipowner and an aquaintance of Thomas Mulock Jr.'s. <!-- KF: One source lists Mr. Metcalf as the M.P. for Tynemouth, which is midway on the eastern coast of Scotland. On a couple occasions, Tom tells his siblings that he managed to visit Mr. Metcalf while he was articled in Cromarty. This distance is more than 480 km. It seems more likely that Metcalf had some kind of a second residence further North. To verify.  --> <lb/> Aleyn Lyell Reade, "Dinah Mulock and her Father," Notes and Queries (Feb. 2, 1924): 79</note>
+               	</person>
 
                <!-- Here, the list of personal relationships start, right now focusing on family relations -->
                <listRelation type="personal">
@@ -5409,6 +5413,14 @@
                         Literary Topography of Britain and Ireland</hi> (London: Casell, 1963),
                      43.</note>
                </place>
+               <place xml:id="Cromarty">
+               	<placeName>Cromarty</placeName>
+               	<note resp="#FukushimaKailey">In the nineteenth century, Cromarty was a county town and seaport in the Scottish Highlands.</note>
+               	</place>
+               	<place xml:id="OrkneyIsles">
+               	<placeName>Orkney Isles</placeName>
+               	<note resp="#FukushimaKailey">Orkney is an archipelago off the northeastern coast of <placeName ref="#Scotland">Scotland.</placeName></note>
+               	</place>
             </listPlace>
          </div>
 
