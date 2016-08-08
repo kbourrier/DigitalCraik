@@ -3467,7 +3467,7 @@
                	</person>
                	<person xml:id="TaylorThomas" sex="1">
                	<persName><surname>Taylor</surname>
-               	<firstname>Thomas</firstname>
+               	<forename>Thomas</forename>
                	<addName>Captain</addName></persName>
                	<note type="bio" resp="#FukushimaKailey">Captain Thomas Taylor commanded the Kate – an A1 vessel which sailed from <placeName ref="#Newcastle">Newcastle</placeName> to <placeName ref="#Cromarty">Cromarty</placeName> and then to <placeName ref="#Quebec">Quebec</placeName> in <date when="1846">1846</date>. Dinah's younger brother <persName>Thomas Jr.</persName> was articled on the Kate.<lb/> Lucille H. Campey, Fast Sailing and Copper-Bottomed: Aberdeen Sailing Ships and the Emigrant Scots They Carried to Canada, 1774-1855 (Toronto: Natural Heritage/Natural History Inc., 2002), 78.</note>
                	</person>
@@ -4198,7 +4198,7 @@
                	<note type="bio" resp="#FukushimaKailey">Mrs. Brown was an acquaintance of the Mulock family. She lived in <placeName ref="#London">London.</placeName> It seems that she helped to care for <persName>Thomas Mulock Jr.</persName>'s horse, <persName>Nell</persName>, while he was at away at sea.</note>
                </person>
                <person xml:id="Bob" sex="1">
-               	<persName><firstname cert="medium">Robert</firstname>
+               	<persName><forename cert="medium">Robert</forename>
                		<addName>Bob</addName></persName>
                	<!--<note type="bio" resp="#FukushimaKailey">Bob seems to have been a friend of the Mulocks. He likely lived in London. In UCLATM01 (1846), Thomas Mulcok Jr. asks his brother Ben to "remember him to Bob and Thompson."</note>-->
                </person>
