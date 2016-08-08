@@ -3463,13 +3463,13 @@
                </person>
                <person xml:id="Metcalf" sex="1">
                	<persName><surname>Metcalf</surname></persName>
-               	<note type="bio" resp="#FukushimaKailey">Mr. Metcalf was a shipowner and an aquaintance of Thomas Mulock Jr.'s. <!-- KF: One source lists Mr. Metcalf as the M.P. for Tynemouth, which is midway on the eastern coast of Scotland. On a couple occasions, Tom tells his siblings that he managed to visit Mr. Metcalf while he was articled in Cromarty. This distance is more than 480 km. It seems more likely that Metcalf had some kind of a second residence further North. To verify.  --> <lb/> Aleyn Lyell Reade, "Dinah Mulock and her Father," Notes and Queries (Feb. 2, 1924): 79</note>
+               	<note type="bio" resp="#FukushimaKailey">Mr. Metcalf was a shipowner and an aquaintance of Thomas Mulock Jr.'s. Metcalf was the M.P. for <placeName>Tynemouth</placeName>, near <placeName>North Shields</placeName> where the Kate docked before sailing to <placeName>Cromarty</placeName>. --> <lb/> Aleyn Lyell Reade, "Dinah Mulock and her Father," Notes and Queries (Feb. 2, 1924): 79</note>
                	</person>
                	<person xml:id="TaylorThomas" sex="1">
                	<persName><surname>Taylor</surname>
                	<firstname>Thomas</firstname>
                	<addName>Captain</addName></persName>
-               	<note type="bio" resp="#FukushimaKailey">Captain Thomas Taylor commanded the Kate – an A1 vessel which sailed from Newcastle to Quebec in 1846. Dinah's younger brother Thomas Jr. was articled on the Kate.<lb/> Lucille H. Campey, Fast Sailing and Copper-Bottomed: Aberdeen Sailing Ships and the Emigrant Scots They Carried to Canada, 1774-1855 (Toronto: Natural Heritage/Natural History Inc., 2002), 78.</note>
+               	<note type="bio" resp="#FukushimaKailey">Captain Thomas Taylor commanded the Kate – an A1 vessel which sailed from <placeName ref="#Newcastle">Newcastle</placeName> to <placeName ref="#Cromarty">Cromarty</placeName> and then to <placeName ref="#Quebec">Quebec</placeName> in <date when="1846">1846</date>. Dinah's younger brother <persName>Thomas Jr.</persName> was articled on the Kate.<lb/> Lucille H. Campey, Fast Sailing and Copper-Bottomed: Aberdeen Sailing Ships and the Emigrant Scots They Carried to Canada, 1774-1855 (Toronto: Natural Heritage/Natural History Inc., 2002), 78.</note>
                	</person>
 
                <!-- Here, the list of personal relationships start, right now focusing on family relations -->
