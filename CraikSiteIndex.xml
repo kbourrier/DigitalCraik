@@ -3471,6 +3471,139 @@
                	<addName>Captain</addName></persName>
                	<note type="bio" resp="#FukushimaKailey">Captain Thomas Taylor commanded the Kate – an A1 vessel which sailed from <placeName ref="#Newcastle">Newcastle</placeName> to <placeName ref="#Cromarty">Cromarty</placeName> and then to <placeName ref="#Quebec">Quebec</placeName> in <date when="1846">1846</date>. Dinah's younger brother <persName>Thomas Jr.</persName> was articled on the Kate.<lb/> Lucille H. Campey, Fast Sailing and Copper-Bottomed: Aberdeen Sailing Ships and the Emigrant Scots They Carried to Canada, 1774-1855 (Toronto: Natural Heritage/Natural History Inc., 2002), 78.</note>
                	</person>
+		    <person xml:id="LittleMary" sex="2">
+                    <persName><forename>Mary</forename>
+                        <addName>Little Mary</addName></persName>
+                    <note type="bio" resp="#FukushimaKailey">Little Mary was one of Dinah's favoured
+                        housemaids at Wildwood.</note>
+                </person>
+                <person xml:id="MrSpringfield" sex="1">
+                    <persName><surname>Springfield</surname></persName>
+                    <note type="bio" resp="#FukushimaKailey">Springfield was a friend of Dinah and
+                            <persName ref="#MulockBen">Ben Mulock</persName>'s.</note>
+                </person>
+                <person xml:id="MrWhite" sex="1">
+                    <persName><surname>White</surname></persName>
+                    <note type="bio" resp="#FukushimaKailey">Mr White was an acquaintance of Dinah's
+                        who lived in <placeName ref="#Glasgow">Glasgow.</placeName> His daughter,
+                            <persName ref="#MissWhite">Miss White</persName>, seems to have been
+                        romantically involved with another of Dinah's friends named <persName
+                            ref="#MrSpringfield">Mr. Springfield.</persName></note>
+                </person>
+                <person xml:id="MrsHerford" sex="2">
+                    <persName><surname type="married">Herford</surname></persName>
+                    <note type="bio" resp="#FukushimaKailey">Mrs. Herford was likely the mother of
+                        Dinah's close friend, <persName ref="#HerfordLaura">Laura
+                            Herford.</persName></note>
+                </person>
+                <person xml:id="HerfordIvan" sex="1">
+                    <persName><surname>Herford</surname>
+                        <forename>Ivan</forename></persName>
+                    <note type="bio" resp="#FukushimaKailey">Ivan was a relative of Dinah's close
+                        friend, <persName ref="#HerfordLaura">Laura Herford.</persName></note>
+                </person>
+                <person xml:id="MrsBlackett" sex="1">
+                    <persName><surname type="married">Blackett</surname></persName>
+                    <note type="bio" resp="#FukushimaKailey">Mrs. Blackett was married to <persName
+                            ref="#BlackettHenry">Henry Blackett</persName> of the publishing house,
+                            <orgName ref="#HurstBlackett">Hurst and Blackett.</orgName></note>
+                </person>
+                <person xml:id="MrsZiepel" sex="1">
+                    <persName><surname type="married">Ziepel</surname></persName>
+                    <note type="bio" resp="#FukushimaKailey">Mrs Ziepel was the matriarch of
+                            <orgName ref="#Ziepel">the Ziepel family.</orgName></note>
+                </person>
+                <person xml:id="SmedleyFrank" sex="1">
+                    <persName><surname>Smedley</surname>
+                        <forename>Francis</forename>
+                        <forename>Edward</forename>
+                        <addName>Frank</addName></persName>
+                    <birth when="1818-10-04"/>
+                    <death when="1864-05-01"/>
+                    <occupation>Writer</occupation>
+                    <note type="bio" resp="#FukushimaKailey">Frank E. Smedley was a friend of
+                        Dinah's. He was a novelist and was also editor for <title
+                            corresp="#SharpesLondonMagazine">Sharpe's London Magazine.</title><lb/>
+                        ODNB. </note>
+                </person>
+                <person xml:id="MrsSmedley" sex="2">
+                    <persName><surname type="married">Smedley</surname></persName>
+                    <note type="bio" resp="#FukushimaKailey">Mrs. Smedley was married to <persName
+                            ref="#SmedleyFrank">Frank Smedley.</persName></note>
+                </person>
+                <person xml:id="HughesThomas" sex="1">
+                    <persName><surname>Hughes</surname>
+                        <forename>Francis</forename></persName>
+                    <birth when="1822-10-20"/>
+                    <death when="1896-03-22"/>
+                    <occupation>Writer</occupation>
+                    <note type="bio" resp="#FukushimaKailey">Thomas Hughes was a writer of
+                        children's novels. He was well-known for authoring the bestselling
+                        children's novel, <title>Tom Brown's School Days</title> (<date when="1857"
+                            >1857</date>).<lb/> ODNB. </note>
+                </person>
+                <person xml:id="HughesFrances" sex="1">
+                    <persName><surname type="married"
+                            >Hughes</surname><forename>Anne</forename><forename>Frances</forename></persName>
+                    <birth when="1826" cert="low"/>
+                    <death when="1910"/>
+                    <nationality>English</nationality>
+                    <note type="bio" resp="#FukushimaKailey">Frances Hughes was the wife of the
+                        English writer, <persName ref="#HughesThomas">Thomas Hughes.</persName> They
+                        married in <date when="1847">1847.</date><lb/> ODNB.</note>
+                </person>
+                <person xml:id="SmithHarvey" sex="1">
+                    <persName><surname>Smith</surname><forename>Harvey</forename></persName>
+                </person>
+                <person xml:id="MrsSmith" sex="2">
+                    <persName><surname>Smith</surname>
+                    </persName>
+                    <!--<note type="bio" resp="#FukushimaKailey">Mrs Smith might have been Harvey Smith's mother. Little context is given in UCLADM14 except that Harvey Smith is not married to this woman.</note>-->
+                </person>
+                <person xml:id="MrRichards" sex="1">
+                    <persName><surname>Richards</surname></persName>
+                </person>
+                <person xml:id="MrsRichards" sex="2">
+                    <persName><surname type="married">Richards</surname>
+                        <note type="bio" resp="#FukushimaKailey">Mrs Richards was married to
+                                <persName ref="#MrRichards">Mr Richards</persName></note></persName>
+                </person>
+                <person xml:id="JackWilliam" sex="1">
+                    <persName><surname>Jack</surname><forename>William</forename></persName>
+                </person>
+                <person xml:id="MrsJack" sex="2">
+                    <persName><surname type="married">Jack</surname></persName>
+                    <note type="bio" resp="#FukushimaKailey">Mrs Jack was married to <persName
+                            ref="#JackWilliam">William Jack</persName></note>
+                </person>
+                <person xml:id="MayallJoe" sex="1">
+                    <persName><surname>Mayall</surname><forename>Joseph</forename><forename>Parkin</forename><addName>Joe</addName>
+                    </persName>
+                    <birth when="1839"/>
+                    <death when="1906"/>
+                    <occupation>Artist</occupation>
+                    <nationality>English</nationality>
+                    <note type="bio" resp="#FukushimaKailey">Joe Mayall was the second son of the
+                        renowned photographer, <persName ref="#MayallJohn">John Mayall.</persName>
+                        <persName ref="#MulockBen">Ben Mulock</persName> worked for <persName
+                            ref="#MayallJohn">John</persName> and <persName ref="#MayallJoe">Joe
+                            Mayall</persName> at their studio in <placeName ref="#London"
+                            >London</placeName>, for about a year <date notBefore="1858"
+                            notAfter="1859">from 1858 to 1859.</date></note>
+                </person>
+                <person xml:id="MayallJohn">
+                    <persName><surname>Mayall</surname><forename>John</forename><forename>Jabez</forename><forename>Edwin</forename><addName>Jabez
+                            Meal</addName></persName>
+                    <birth when="1813-09-17"/>
+                    <death when="1901-03-06"/>
+                    <occupation>Artist</occupation>
+                    <nationality>English</nationality>
+                    <note type="bio" resp="#FukushimaKailey">John Mayall was a successful
+                        professional photographer specializing in portraiture and narrative
+                        photography. He became a prominent name in England following his work at the
+                        Great Exhibition in <date when="1851">1851</date>, and was commissioned to
+                        photograph the royal family on several occasions.</note>
+                </person>
 
                <!-- Here, the list of personal relationships start, right now focusing on family relations -->
                <listRelation type="personal">
@@ -4229,6 +4362,71 @@
                <person xml:id="MrsLovellWilliam" sex="2"/> <!--KF: Change this xml id when we find out her given name-->
                <person xml:id="MrsStewartAndrew" sex="2"/> <!--KF: Change this xml id when we find out her given name-->
                <person xml:id="MrWarren" sex="1"/>
+		    <!-- KF: The following stub entries are from UCLADM14 -->
+		             <person xml:id="MissMontgomery" sex="2">
+                    <persName><surname>Montgomery</surname></persName>
+                </person>
+                <person xml:id="MrsMelver" sex="2">
+                    <persName><surname type="married">Melver</surname></persName>
+                </person>
+                <person xml:id="PearsonLauren" sex="2">
+                    <persName><surname>Pearson</surname><forename>Lauren</forename></persName>
+                </person>
+                <person xml:id="MrsEarl" sex="2">
+                    <persName><surname type="married">Earl</surname></persName>
+                </person>
+                <person xml:id="AdamsWBridges" sex="1">
+                    <persName><surname>Adams</surname><forename>Bridges</forename></persName>
+                    <!--<note type="bio" resp="#FukushimaKailey">Dinah mentions "a squabble at Mr. W. Bridges Adams" in UCLADM14. I have yet to find sources that verify the existence of a relationship, but it seems like she must be referring to the writer and railway engineer, William Bridges Adams. Adams lived in London and was a partner in Hobson &amp; Co. coaches.</note>-->
+                </person>
+                <person xml:id="MissGarden" sex="2">
+                    <persName><surname>Garden</surname></persName>
+                </person>
+                <person xml:id="MrsHartwell" sex="2">
+                    <persName><surname type="married">Hartwell</surname></persName>
+                </person>
+                <person xml:id="MissThomson" sex="1">
+                    <persName><surname>Thomson</surname></persName>
+                </person>
+                <person xml:id="MissHill" sex="2">
+                    <persName><surname>Hill</surname></persName>
+                </person>
+                <person xml:id="MrsGow" sex="2">
+                    <persName><surname type="married">Gow</surname></persName>
+                </person>
+                <person xml:id="MrsGuelph" sex="2">
+                    <persName><surname type="married">Guelph</surname></persName>
+                </person>
+                <person xml:id="BewesRobert" sex="1">
+                    <persName><surname>Bewes</surname><forename>Robert</forename></persName>
+                </person>
+                <person xml:id="Easton" sex="1">
+                    <persName><surname>Easton</surname></persName>
+                </person>
+                <person xml:id="June" sex="2">
+                    <persName><forename>June</forename></persName>
+                </person>
+                <person xml:id="Phillipe" sex="2">
+                    <persName><forename>Phillipe</forename></persName>
+                </person>
+                <person xml:id="George" sex="1">
+                    <persName><forename>George</forename></persName>
+                </person>
+                <person xml:id="William" sex="1">
+                    <persName><forename>William</forename></persName>
+                </person>
+                <person xml:id="MrLewes" sex="1">
+                    <persName><surname>Lewes</surname></persName>
+                </person>
+                <person xml:id="Travis" sex="1">
+                    <persName><forename>Travis</forename></persName>
+                </person>
+                <person xml:id="Nicholay" sex="1">
+                    <persName><forename>Nicholay</forename></persName>
+                </person>
+                <person xml:id="Linton" sex="1">
+                    <persName><surname>Linton</surname></persName>
+                </person>
             </listPerson>
          </div>
 
@@ -4359,6 +4557,15 @@
                   <orgName>The Mulock Aunts</orgName>
                   <note resp="#FukushimaKailey">Dinah's paternal aunts Jane, Emily, Eliza, Frances, Ann, and Eliza Mulock lived at <placeName ref="#Bath">Bath.</placeName></note>
                </org>
+		    <org xml:id="Garden" type="family">
+                        <orgName>The Gardens</orgName>
+                    </org>
+                    <org xml:id="Mudie" type="family">
+                        <orgName>The Mudies</orgName>
+                    </org>
+                    <org xml:id="Ziepel" type="family">
+                        <orgName>The Ziepels</orgName>
+                    </org>
 
                <!-- Other types of organizations -->
                <org xml:id="StationersCompany" type="guild">
@@ -5449,6 +5656,52 @@
                	<placeName>Ramsgate</placeName>
                	<note resp="#FukushimaKailey">Ramsgate is a seaside town in east <placeName>Kent</placeName>, <placeName>England.</placeName></note>
                	</place>
+		            <place xml:id="Leckhampton">
+                        <placeName>Leckhampton</placeName>
+                        <note resp="#FukushimaKailey">Leckhampton is a district of south <placeName
+                                ref="#Cheltenham">Cheltenham.</placeName></note>
+                    </place>
+                    <place xml:id="Melbourne">
+                        <placeName>Melbourne</placeName>
+                        <note resp="#FukushimaKailey">Melbourne is a city in southeastern <placeName
+                                ref="#Australia">Australia.</placeName></note>
+                    </place>
+
+                    <place xml:id="StAndrews">
+                        <placeName>St. Andrews</placeName>
+                        <note resp="#FukushimaKailey">St. Andrews was once a royal burgh in eastern
+                                <placeName ref="#Fife">Fife,</placeName>
+                            <placeName ref="#Scotland">Scotland.</placeName></note>
+                    </place>
+                    <place xml:id="Cambridge">
+                        <placeName>Cambridge</placeName>
+                        <note resp="#FukushimaKailey">Cambridge is a university city in southeastern
+                                <placeName ref="#England">England.</placeName></note>
+                    </place>
+                    <place xml:id="HammersmithBridge">
+                        <placeName>Hammersmith Bridge</placeName>
+                        <note resp="#FukushimaKailey">Hammersmith Bridge crosses the <placeName
+                                ref="#RiverThames">River Thames</placeName> in west <placeName
+                                ref="#London">London.</placeName></note>
+                    </place>
+                    <place xml:id="RiverThames">
+                        <placeName>The River Thames <addName>The Thames</addName></placeName>
+                        <note resp="#FukushimaKailey">The River Thames flows through southern
+                                <placeName ref="#England">England</placeName> and is well-known for
+                            crossing through the capital, <placeName ref="#London"
+                                >London.</placeName></note>
+                    </place>
+                    <place xml:id="Niton">
+                        <placeName>Niton</placeName>
+                        <note resp="#FukushimaKailey">Niton is a small village on the <placeName
+                                ref="#IsleOfWight">Isle of Wight</placeName>, <placeName
+                                ref="#England">England.</placeName></note>
+                    </place>
+                    <place xml:id="Wapping">
+                        <placeName>Wapping</placeName>
+                        <note resp="#FukushimaKailey">Wapping is a district of east <placeName
+                                ref="#London">London.</placeName></note>
+                    </place>
             </listPlace>
          </div>
 
@@ -5725,6 +5978,19 @@
                 <!--KF: The following 2 stub entries are from UCLATM01 -->
                 <place xml:id="Newcastle"/>
                 <place xml:id="Quebec"/>
+		    <!-- KF: The following 4 stub entries are from UCLADM14 -->
+		    <place xml:id="JohannesRiver">
+                        <placeName>Johannes River</placeName>
+                    </place>
+                    <place xml:id="ValeLodge">
+                        <placeName>Vale Lodge</placeName>
+                    </place>
+		                        <place xml:id="HaltonGarden">
+                        <placeName>Halton Garden</placeName>
+                    </place>
+                    <place xml:id="WendCottage">
+                        <placeName>Wend Cottage</placeName>
+                    </place>
             </listPlace>
          </div>
 
@@ -6350,6 +6616,24 @@
                   <!-- https://books.google.ca/books?id=FBhLAQAAMAAJ&pg=PA713&lpg=PA713&dq=%22Priscilla%27s+Lot%22&source=bl&ots=qkS5O2WBow&sig=wjXmuglbd96_dXdzvICxtSMyUnU&hl=en&sa=X&ved=0ahUKEwioq-bGjN_MAhUj4IMKHaYfCf8Q6AEIIjAC#v=onepage&q=%22Priscilla's%20Lot%22&f=false -->
                </note>
             </bibl>
+		     <bibl xml:id="PoemsBeforeCongress">
+                        <author>
+                            <persName ref="#BrowningElizabethBarrett">Elizabeth Barrett
+                                Browning</persName>
+                        </author>
+                        <title level="m">Poems Before Congress</title>
+                        <publisher corresp="#ChapmanHall">Chapman and Hall</publisher>
+                        <pubPlace>London</pubPlace>
+                        <date when="1860"/>
+                        <note resp="#FukushimaKailey">Barrett-Browning's Poems Before Congress was a
+                            collection of controversial political poetry. It received an
+                            overwhelmingly negative response following its English publication in
+                                <date when="1860">1860,</date> and was frequently decried as
+                            "anti-English."<lb/> Katherine Montwieler, "Domestic Politics: Gender,
+                            Protest, and Elizabeth Barrett Browning's Poems before Congress," Tulsa
+                            Studies in Women's Literature 24.2 (2005): 291-317.
+                            <!--http://www.jstor.org/stable/20455242--></note>
+                    </bibl>
          </div>
 
          <div type="StubEntriesTitles">
@@ -6408,6 +6692,18 @@
                <bibl xml:id="ChambersLibraryForYoungPeople">
                   <title>Chambers's Library for Young People</title>
                </bibl>
+		          <bibl xml:id="Times">
+                        <title>The Times</title>
+                        <title>The London Times</title>
+                        <note resp="#FukushimaKailey">The Times is a national British daily
+                            newspaper based in <placeName ref="#London">London.</placeName> It has
+                            been printed under its current name since <date when="1788"
+                            >1788.</date></note></bibl>
+                    <bibl xml:id="RevueDesDeuxMondes">
+                        <title xml:lang="fr">Revue Des Deux Mondes</title>
+                        <note resp="#FukushimaKailey">Revue Des Deux Mondes is a French language
+                            monthly periodical based in <placeName ref="#Paris">Paris.</placeName>
+                            It has been in print since <date when="1829">1829.</date></note></bibl>
 
                <!-- Works not by Craik -->
                <bibl xml:id="NothingNew">
@@ -6420,6 +6716,11 @@
                <bibl xml:id="Saul">
                   <!-- Dorothy23 UCLA -->
                </bibl>
+		    <bibl xml:id="PhotographyInHotClimates">
+                        <author>
+                            <persName ref="#MulockBen">Benjamin Mulock</persName>
+                        </author>
+                    <!-- UCLADM14 --></bibl>
             </listBibl>
          </div>
       </body>
