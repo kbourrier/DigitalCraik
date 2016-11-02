@@ -3474,6 +3474,7 @@
 		    <person xml:id="LittleMary" sex="2">
                     <persName><forename>Mary</forename>
                         <addName>Little Mary</addName></persName>
+			    <occupation>Servant</occupation>
                     <note type="bio" resp="#FukushimaKailey">Little Mary was one of Dinah's favoured
                         housemaids at Wildwood.</note>
                 </person>
@@ -3648,7 +3649,6 @@
                   <relation name="child" active="#DrysdaleCharles #DrysdaleGeorge #LaneMary"
                      passive="#DrysdaleLady"/>
                </listRelation>
-
                <!-- Here, the list of social or professional relationships start, focusing on publishers and illustrators-->
                <listRelation type="social">
                   <relation name="publisher" active="#HenryBlackett" passive="#DMC"/>
