@@ -66,6 +66,16 @@
                   </occupation>
                   <note type="bio">Kailey Fukushima is a recent graduate of the University of Calgary. She holds a BA (Hons) in English.</note>
                </person>
+		    <person xml:id="JacobiKelsey">
+                  <persName>
+                     <surname>Jacobi</surname>
+                     <forename>Kelsey</forename>
+                     <roleName>Editor</roleName>
+                  </persName>
+                  <occupation>
+                     <affiliation>University of Calgary</affiliation>
+                  </occupation>
+               </person>
             </listPerson>
          </div>
 
