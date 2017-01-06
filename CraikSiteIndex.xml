@@ -64,12 +64,32 @@
                   <occupation>
                      <affiliation>University of Calgary</affiliation>
                   </occupation>
-                  <note type="bio">Kailey Fukushima is a recent graduate of the University of Calgary. She holds a BA (Hons) in English.</note>
+                  <note type="bio">Kailey Fukushima is a Digitization Assistant at the University of Calgary. She holds a BA (Hons) in English, 2016.</note>
                </person>
 		    <person xml:id="JacobiKelsey">
                   <persName>
                      <surname>Jacobi</surname>
                      <forename>Kelsey</forename>
+                     <roleName>Editor</roleName>
+                  </persName>
+                  <occupation>
+                     <affiliation>University of Calgary</affiliation>
+                  </occupation>
+               </person>
+		     <person xml:id="StevensonLecia">
+                  <persName>
+                     <surname>Stevenson</surname>
+                     <forename>Lecia</forename>
+                     <roleName>Editor</roleName>
+                  </persName>
+                  <occupation>
+                     <affiliation>University of Calgary</affiliation>
+                  </occupation>
+               </person>
+		     <person xml:id="AndersonHannah">
+                  <persName>
+                     <surname>Anderson</surname>
+                     <forename>Hannah</forename>
                      <roleName>Editor</roleName>
                   </persName>
                   <occupation>
