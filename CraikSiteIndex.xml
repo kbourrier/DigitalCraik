@@ -4811,6 +4811,11 @@
                   <note resp="#FukushimaKailey">Edinburgh is the capital city of <placeName
                         ref="#Scotland">Scotland</placeName>.</note>
                </place>
+		<place xml:id="EdenCottage">
+                  <placeName>Eden Cottage</placeName>
+                  <note resp="#ParkerJanice">Eden Cottage on Wickham Road was home to the family of Francis Miers. Eden Cottage was very short walking distance away from 
+			  distance the Corner House.</note>
+               </place>
                <place xml:id="Farnham">
                   <placeName>Farnham</placeName>
                   <note resp="#FukushimaKailey">Farnham is a town in <placeName ref="#Surrey"
