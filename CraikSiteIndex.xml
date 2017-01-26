@@ -4457,6 +4457,45 @@
                 <person xml:id="Linton" sex="1">
                     <persName><surname>Linton</surname></persName>
                 </person>
+		      <person xml:id="MrsMiers" sex="2">
+                    <persName><surname type="married">Miers</surname></persName>
+                </person>
+                <person xml:id="MrMiers" sex="1">
+                    <persName><surname>Miers</surname></persName>
+                </person>
+                <person xml:id="Hockin" sex="1">
+                    <persName><surname>Hockin</surname></persName>
+                </person>
+                <person xml:id="DrStorrar" sex="1">
+                    <persName><surname>Storrar</surname></persName>
+                </person>
+                <person xml:id="MrWistan" sex="1">
+                    <persName><surname>Wistan</surname></persName>
+                </person>
+                <person xml:id="EstellFanny" sex="2">
+                    <persName><surname>Estell</surname><forename>Fanny</forename></persName>
+                </person>
+                <person xml:id="HenstrallPenelope" sex="2">
+                    <persName><surname>Henstrall</surname><forename>Penelope</forename></persName>
+                </person>
+                <person xml:id="MrZiepel" sex="1">
+                    <persName><surname>Ziepel</surname></persName>
+                </person>
+                <person xml:id="MontgomeryHugh" sex="1">
+                    <persName><surname>Montgomery</surname><forename>Hugh</forename></persName>
+                </person>
+                <person xml:id="MiersJohn" sex="1">
+                    <persName><surname>Miers</surname><forename>John</forename></persName>
+                </person>
+                <person xml:id="MrGale" sex="1">
+                    <persName><surname>Gale</surname></persName>
+                </person>
+                <person xml:id="MrWatson" sex="1">
+                    <persName><surname>Watson</surname></persName>
+                </person>
+                <person xml:id="MrMatthew" sex="1">
+                    <persName><forename>Matthew</forename></persName>
+                </person>
             </listPerson>
          </div>
 
@@ -6037,6 +6076,21 @@
                     </place>
                     <place xml:id="WendCottage">
                         <placeName>Wend Cottage</placeName>
+                    </place>
+		    <place xml:id="GothieCottage">
+                        <placeName>Gothie Cottage</placeName>
+                    </place>
+                    <place xml:id="LombardStreet">
+                        <placeName>Lombard Street</placeName>
+                    </place>
+                    <place xml:id="RegentStreet">
+                        <placeName>Regent Street</placeName>
+                    </place>
+                    <place xml:id="ParliamentStreet">
+                        <placeName>Parliament Street</placeName>
+                    </place>
+                    <place xml:id="ClarkHouse">
+                        <placeName>Clark House</placeName>
                     </place>
             </listPlace>
          </div>
