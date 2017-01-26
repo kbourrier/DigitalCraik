@@ -6676,9 +6676,6 @@
             <head>Stub Entries Titles</head>
             <listBibl>
                <!-- Periodicals -->
-               <bibl xml:id="Athaneum">
-                  <title>Athaneum</title>
-               </bibl>
                <bibl xml:id="ChambersMagazine">
                   <title>Chambers's Edinburgh Journal</title>
                </bibl>
