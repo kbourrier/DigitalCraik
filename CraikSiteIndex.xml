@@ -4596,6 +4596,15 @@
                     <org xml:id="Ziepel" type="family">
                         <orgName>The Ziepels</orgName>
                     </org>
+		    <org xml:id="Stoddar" type="family">
+                        <orgName>The Stoddars</orgName>
+                    </org>
+                    <org xml:id="Estell" type="family">
+                        <orgName>The Estells</orgName>
+                    </org>
+                    <org xml:id="Adam" type="family">
+                        <orgName>The Adams</orgName>
+                    </org>
 
                <!-- Other types of organizations -->
                <org xml:id="StationersCompany" type="guild">
@@ -4654,6 +4663,9 @@
                      History," <hi rend="italics">University of Oxford</hi>, accessed July 14, 2015,
                      http://www.ox.ac.uk/about/organisation/history.</note>
                </org>
+		    <org xml:id="UniversityofCambridge">
+                        <orgName>University of Cambridge</orgName>
+                    </org>
             </listOrg>
          </div>
 
@@ -6114,6 +6126,9 @@
                            Bentley</orgName></persName> and edited by <persName
                         ref="#DickensCharles">Charles Dickens.</persName></note>
                </bibl>
+		    <bibl xml:id="IllustratedNews"><title>Illustrated News</title>
+                        <note>The Illustrated London News was a weekly news periodical published
+                            from <date from="1842" to="1971">1842 to 1971.</date></note></bibl>
                <bibl xml:id="ArtJournal">
                   <date from="1838" to="1849"><title>The Art Union</title></date>
                   <date from="1849" to="1912"><title>The Art Journal</title></date>
@@ -6461,6 +6476,10 @@
                      <!-- https://books.google.ca/books?id=N-rPAAAAMAAJ&lpg=PA368&ots=9_o2h7vZoh&dq=%22Concerning%20Men%22%20Cornhill&pg=PA368#v=onepage&q=%22Concerning%20Men%22%20Cornhill&f=false -->
                   </note>
                </bibl>
+		    <bibl xml:id="AMansWrong"><title>A Man's Wrong </title><author><persName
+                                ref="#DMC">Dinah Craik</persName></author><note>"A Man's Wrong" was
+                            a short poem by Dinah.</note>
+                        <!--KF: This is a poem in either Cornhill or Macmillan.--></bibl>
             </listBibl>
          </div>
 
@@ -6483,6 +6502,13 @@
                   <pubPlace>London</pubPlace>
                   <publisher corresp="#SmithElder">Smith, Elder &amp; Co</publisher>
                   <date when="1854"/></bibl>
+		    <bibl xml:id="TomBrown">
+                        <title>Tom Brown</title>
+                        <author ref="#HughesThomas">Thomas Hughes</author>
+                        <date when="1857"/>
+                        <note>Tom Brown's School Days was a children's novel by <persName
+                                ref="#HughesThomas">Thomas Hughes.</persName> It follows the life of
+                            a young boy in an 1830s Rugby school.</note></bibl>
                <bibl xml:id="CupAndTheLip">
                   <author>
                      <persName ref="#MrsValentine">Laura Jewry</persName>
