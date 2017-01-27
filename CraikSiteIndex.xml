@@ -6092,6 +6092,7 @@
                     <place xml:id="ClarkHouse">
                         <placeName>Clark House</placeName>
                     </place>
+		    <place xml:id="LudgateHill"><placeName>Ludgate Hill</placeName><note>Ludgate Hill is located in the city of <placeName ref="#London">London</placeName></note></place>
             </listPlace>
          </div>
 
@@ -6220,6 +6221,15 @@
                      editor.<lb/> ODNB.<lb/> Barbara Quinn Schmidt, "'The Cornhill Magazine':
                      Celebrating Success," <hi rend="italics">Victorian Periodical Review</hi> 32.3
                      (Fall 1999): 202–208.</note></bibl>
+		     <bibl xml:id="AtlanticMonthly"><title>The Atlantic Monthly</title><note
+                            resp="FukushimaKailey">The Atlantic Monthly is an American literary and
+                            cultural periodical based out of <placeName ref="#Boston"
+                                >Boston.</placeName> It was founded in <date when="1857"
+                                >1857.</date></note></bibl>
+                    <bibl xml:id="OurYoungFolks"><title>Our Young Folks</title><note
+                            resp="#FukushimaKailey">Our Young Folks was an illustrated literary
+                            periodical for children published weekly by <orgName
+                                ref="#TicknorFields">Ticknor &amp; Fields.</orgName></note></bibl>
             </listBibl>
          </div>
 
@@ -6513,6 +6523,12 @@
                         >1870.</date>
                   </note>
                </bibl>
+		    <bibl xml:id="UnknownCountry"><title>An Unknown Country</title><author
+                            ref="#DMC">Dinah Mulock Craik</author><date when="1887"/><note
+                            resp="#FukushimaKailey">An Unknown Country was a travel narrative
+                            recording one of Dinah's trips to northern <placeName ref="#Ireland"
+                                >Ireland.</placeName> It was published in the English Illustrated
+                            Magazine in <date when="1887">1887.</date></note></bibl>
                <bibl xml:id="ConcerningMen">
                   <author>
                      <persName ref="#DMC">Dinah Mulock Craik</persName>
