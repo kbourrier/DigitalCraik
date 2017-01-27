@@ -4496,6 +4496,7 @@
                 <person xml:id="MrMatthew" sex="1">
                     <persName><forename>Matthew</forename></persName>
                 </person>
+		    <person xml:id="MrsHowlett" sex="2"/>
             </listPerson>
          </div>
 
