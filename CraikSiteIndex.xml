@@ -3725,6 +3725,33 @@
                         corresp="#Ogilvies">The Ogilvies.</title></note>
                </person>
                <person xml:id="KingLear" sex="1"><note type="bio" resp="#FukushimaKailey">King Lear is the titular character in a Shakespearean play.</note></person>
+		              <person xml:id="Ouida" sex="2">
+                    <persName><surname>de la Ramée</surname>
+                        <forename>Maria</forename>
+                        <forename>Louise</forename>
+                        <addName>Ouida</addName></persName>
+                    <birth when="1839-01-01"/>
+                    <death when="1908-01-25"/>
+                    <occupation>Writer</occupation>
+                    <nationality>English</nationality>
+                    <nationality>French</nationality>
+                    <note type="bio" resp="#AndersonHannah">Ouida was a popular late-Victorian
+                        novelist whose work often featured adultery and continental settings. She is
+                        best known for her novel <title corresp="#UnderTwoFlags">Under Two
+                            Flags</title>. Dinah compared the moral tone of her work unfavourably to
+                        her own.</note>
+                </person>
+                <person xml:id="StrahanAlexander" sex="1">
+                    <persName><surname>Strahan</surname>
+                        <forename>Alexander</forename>
+                    </persName>
+                    <birth when="1833"/>
+                    <death when="1918"/>
+                    <occupation>Publisher</occupation>
+                    <nationality>Scottish</nationality>
+                    <note type="bio" resp="#FukushimaKailey">Alexander Strahan founded Good Words, a
+                        journal which Dinah often published in.</note>
+                </person>
             </listPerson>
          </div>
 
@@ -4804,6 +4831,9 @@
                <org xml:id="CoventGarden">
                   <orgName>Covent Garden</orgName>
                </org>
+		    <org xml:id="EastLondonChildrensHospital">
+                        <orgName>East London Children's Hospital</orgName>
+                    </org>
             </listOrg>
          </div>
 
@@ -6766,6 +6796,18 @@
                             Studies in Women's Literature 24.2 (2005): 291-317.
                             <!--http://www.jstor.org/stable/20455242--></note>
                     </bibl>
+		 <bibl xml:id="UnderTwoFlags"><title>Under Two Flags</title><author ref="#Ouida"
+                            >Ouida</author>
+                        <date when="1867"/></bibl>
+                    <bibl xml:id="SundayMagazine">
+                        <title>Sunday Magazine</title>
+                        <publisher>Alexander Strahan</publisher>
+                        <date from="1864" to="1905"/>
+                        <note resp="#JacobiKelsey"><title corresp="SundayMagazine">Sunday
+                                Magazine</title> was an Evangelical journal designed to be read on
+                            the Sabbath. It was designed to be a compliment to <title
+                                corresp="#GoodWords">Good Words</title>, which Dinah often published
+                            in.</note></bibl>
          </div>
 
          <div type="StubEntriesTitles">
