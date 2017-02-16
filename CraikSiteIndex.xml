@@ -3752,6 +3752,37 @@
                     <note type="bio" resp="#FukushimaKailey">Alexander Strahan founded Good Words, a
                         journal which Dinah often published in.</note>
                 </person>
+		                    <person xml:id="MacleodDonald" sex="1">
+                    <persName><surname>Macleod</surname>
+                        <forename>Donald</forename>
+                        <roleName>Reverend</roleName>
+                        <roleName>Dr.</roleName></persName>
+                    <birth when="1831-03-18"/>
+                    <death when="1916-02-11"/>
+                    <nationality>Scottish</nationality>
+                    <occupation>Minister of the Church of Scotland</occupation>
+                    <occupation>Magazine Editor</occupation>
+                    <note type="bio" resp="#ParkerJanice">Rev. Dr. Donald Macleod took over as
+                        editor of <title ref="CraikSiteIndex.xml#GoodWords">Good Words</title> after
+                        the death of his older brother <persName
+                            ref="CraikSiteIndex.xml#MacleodNorman">Norman Macleod</persName>.</note>
+                </person>
+                <person xml:id="MacleodNorman" sex="1">
+                    <persName><surname>Macleod</surname>
+                        <forename>Norman</forename>
+                        <roleName>Reverend</roleName>
+                        <roleName>Dr.</roleName></persName>
+                    <birth when="1812-06-03"/>
+                    <death when="1872-06-16"/>
+                    <nationality>Scottish</nationality>
+                    <occupation>Minister of the Church of Scotland</occupation>
+                    <occupation>Magazine Editor</occupation>
+                    <note type="bio" resp="#ParkerJanice">Rev. Dr. Norman Macleod was editor of
+                            <title ref="CraikSiteIndex.xml#GoodWords">Good Words</title> from its
+                        inception in 1860 until his death in 1872, when his brother <persName
+                            ref="CraikSiteIndex.xml#MacleodDonald">Donald Macleod</persName> became
+                        editor of the magazine. ODNB.</note>
+                </person>
             </listPerson>
          </div>
 
