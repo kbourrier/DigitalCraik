@@ -4777,6 +4777,10 @@
                <org xml:id="TicknorFields" type="publisher">
                   <orgName>Ticknor and Fields</orgName>
                </org>
+		    <org xml:id="HoughtonMifflin" type="publisher">
+                  <orgName>Houghton Mifflin</orgName>
+               </org>
+		    
 
                <!-- Families -->
                <org xml:id="Dobell" type="family"/>
