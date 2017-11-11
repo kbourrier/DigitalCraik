@@ -5,4 +5,4 @@ This GitHub account is a repository for Digital Dinah Craik project files. Here,
 This content is licenced under a creative commons attribution-noncommercial-sharealike 4.0 international license.
 
 # Contact
-Digital Dinah Craik is on [Wordpress](http://www.digitaldinahcraikproject.org/), [Twitter](https://twitter.com/dinahcraik), and Facebook(https://www.facebook.com/groups/905626532882095/#).
+Digital Dinah Craik is on [Wordpress](http://www.digitaldinahcraikproject.org/), [Twitter](https://twitter.com/dinahcraik), and [Facebook](https://www.facebook.com/groups/905626532882095/#).
