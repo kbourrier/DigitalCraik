@@ -1,0 +1,113 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_ms.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_ms.rng" type="application/xml"
+	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<?xml-model href="file:/Users/kaileyfukushima/Desktop/Dinah-Craik-Schematron/CraikValidate.sch" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Letter from <persName>SENDER</persName> to <persName>RECIPIENT</persName>,
+                        <date>DATE</date></title>
+                <author ref="CraikSiteIndex.xml#DMC">Dinah Mulock Craik</author>
+                <editor ref="CraikSiteIndex.xml#BourrierKaren">Karen Bourrier</editor>
+                <sponsor>
+                    <orgName>Dinah Mulock Craik: A Digital Archive</orgName>
+                </sponsor>
+                <sponsor>University of Calgary</sponsor>
+                <principal>Karen Bourrier</principal>
+                <respStmt>
+                    <resp>Transcription <date>DATE</date> by</resp>
+                    <persName>PROJECT MEMBER</persName>
+                </respStmt>
+                <respStmt>
+                    <resp>Proofing of transcription <date>DATE</date> by</resp>
+                    <persName>PROJECT MEMBER</persName>
+                </respStmt>
+                <respStmt>
+                    <resp>TEI encoding <date>DATE</date> by</resp>
+                    <persName>PROJECT MEMBER</persName>
+                </respStmt>
+                <respStmt>
+                    <resp>Proofing of TEI encoding <date>DATE</date> by</resp>
+                    <persName>PROJECT MEMBER</persName>
+                </respStmt>
+            </titleStmt>
+            <editionStmt>
+                <edition>First digital edition in TEI, date: <date>YEAR + MONTH THAT THE LETTER IS
+                        UPLOADED</date>. P5.</edition>
+            </editionStmt>
+            <publicationStmt>
+                <authority>Dinah Mulock Craik: A Digital Archive</authority>
+                <pubPlace>Calgary, Alberta, Canada</pubPlace>
+                <date>2016</date>
+                <availability>
+                    <p>Reproduced by courtesy of the <placeName>REPOSITORY</placeName>.</p>
+                    <licence>Distributed under a Creative Commons Attribution-ShareAlike 3.0
+                        Unported License</licence>
+                </availability>
+            </publicationStmt>
+            <seriesStmt>
+                <title>Dinah Mulock Craik: A Digital Archive</title>
+            </seriesStmt>
+            <sourceDesc>
+                <msDesc>
+                    <msIdentifier>
+                        <repository>REPOSITORY</repository>
+                        <collection>COLLECTION NAME</collection>
+                        <idno>IDENTIFIER FOR PHYSICAL LETTER</idno>
+                    </msIdentifier>
+                    <head>Letter from <persName>SENDER</persName> to <persName>RECIPIENT</persName>,
+                            <date>DATE</date></head>
+                    <physDesc>
+                        <p>ANYTHING NOTABLE ABOUT THE PHYSICAL PROPERTIES OF THE LETTER GOES HERE
+                            (e.g. mourning paper, stamps, tears) THIS IS ALSO WHERE YOU NOTE IF
+                            THERE IS AN ACCOMPANYING ENVELOPE</p>
+                    </physDesc>
+                    <additional>
+                        <adminInfo>
+                            <note>ANY EXTRA IDENTIFIERS FOR THE PHYSICAL LETTER GO HERE (e.g. Box #
+                                ; Folder #)</note>
+                        </adminInfo>
+                    </additional>
+                </msDesc>
+            </sourceDesc>
+        </fileDesc>
+        <encodingDesc>
+            <editorialDecl>
+                <p>Our aim in this edition has been to transcribe the content of the letters as
+                    accurately as possible without reproducing the physical appearance of the
+                    manuscript. Craik’s spelling, punctuation, underlining, superscripts,
+                    abbreviations, additions and deletions are retained, except for words which are
+                    hyphenated at the end of a line, which we have silently emended. Where Craik
+                    uses a non-standard spelling, we have encoded both her spelling and the standard
+                    Oxford English Dictionary spelling to facilitate searching. The long s is not
+                    encoded.</p>
+            </editorialDecl>
+        </encodingDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <div type="letter">
+                <opener><salute>OPENING SALUTATIONS (e.g. Dear <persName>Karen
+                        Bourrier</persName>)</salute></opener>
+                <p>FIRST PARAGRAPH</p>
+                <p>SECOND PARAGRAPH</p>
+                <p>THIRD PARAGRAPH</p>
+                <closer><salute>CLOSING SALUTATIONS (e.g. Yours truly,)</salute>
+                    <signed><persName>Kailey Fukushima</persName></signed></closer>
+                <!--KF: All short editorial/explanatory notes can go in green comments. These comments are not public-facing.
+                Please begin comments with your initials so we can identify who wrote them later on. -->
+            </div>
+        </body>
+        <back>
+            <div type="notes">
+                <note target="#n1" resp="CraikSiteIndex.xml#FukushimaKailey">SHORT, PITHY,
+                    EXPLANATORY NOTES GO HERE. THEY SHOULD BE ANCHORED IN THE TEXT WITH AN ANCHOR. 
+                    ADD A RESP STATEMENT IN EACH NOTE. SEE CODEBOOK FOR FURTHER INSTRUCTIONS. 
+                    IF YOUR LETTER HAS AN ACCOMPANYING ENVELOPE, ADD IT HERE &amp; CHANGE THE DIV TYPE TO "ENVELOPE." SEE
+                    CODEBOOK FOR FURTHER INSTRUCTIONS.</note>
+            </div>
+        </back>
+    </text>
+</TEI>
